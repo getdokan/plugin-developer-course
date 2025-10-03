@@ -68,9 +68,9 @@ theme:
     edit: material/pencil
     view: material/eye
   
-  # Logo - using Material icon for now (add custom logo to docs/assets/)
-  # logo: assets/wedevs-logo.svg
-  # favicon: assets/favicon.png
+  # Logo
+  logo: assets/wedevs-logo.svg
+  favicon: assets/favicon.png
 
 # Plugins
 plugins:
