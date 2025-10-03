@@ -133,14 +133,22 @@ nav:
     - HTML & CSS: programming-languages/HtmlCss.md
     - JavaScript: programming-languages/JavaScript.md
     - PHP & MySQL: programming-languages/PhpMysql.md
-    - WordPress: programming-languages/WordPress.md
   
   - Operating System:
     - OS Fundamentals: operating-system/os-fundamentals.md
   
   - Web Fundamentals:
     - Web Basics: web-fundamentals/web-basics.md
-  
+
+  - WordPress Development:
+    - Overview: wordpress/index.md
+    - Introducing WordPress: wordpress/02-introducing-wordpress.md
+    - Coding Conventions: wordpress/03-coding-conventions.md
+    - Basic Plugin Development: wordpress/04-basic-plugin-development.md
+    - REST API: wordpress/06-rest-api.md
+    - Basic Theme Development: wordpress/05-basic-theme-development.md
+    - WP-CLI: wordpress/07-wp-cli.md
+
   - Reference:
     - Debugging Setup: debuging.md
     - Progress Checklist: PROGRESS-CHECKLIST.md

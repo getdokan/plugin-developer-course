@@ -91,26 +91,35 @@ Learn server-side programming and databases.
 
 ---
 
-### 5. **[WordPress Development](WordPress.md)** 🌐
-**Time:** 2-4 weeks  
+### 5. **[WordPress Development](../wordpress/index.md)** 🌐
+**Time:** 8-12 weeks  
 Master WordPress from basics to advanced development.
 
 **Topics:**
-- WordPress administration
-- Plugin development
-- Theme development
-- Hooks (Actions & Filters)
-- WP-CLI
-- Gutenberg blocks
-- WooCommerce
-- Dokan multi-vendor
+- WordPress fundamentals
+- Coding conventions & standards
+- Plugin development (basic to advanced)
+- Theme development (basic to advanced)
+- REST API integration
+- WP-CLI mastery
+- Gutenberg blocks & FSE
+- Performance optimization
 
-**Quick Start:**
-- [WordPress Plugin Handbook](https://developer.wordpress.org/plugins/)
-- [WP-CLI Documentation](https://wp-cli.org/)
-- [React Tutorial](https://www.youtube.com/watch?v=x4rFhThSX04) (for Gutenberg)
+**Full Course:** [WordPress Development →](../wordpress/index.md)
 
-**Practice:** Build custom plugin, create Gutenberg block
+**Modules:**
+1. [Introducing WordPress](../wordpress/02-introducing-wordpress.md)
+2. [Coding Conventions](../wordpress/03-coding-conventions.md)
+3. [Basic Plugin Development](../wordpress/04-basic-plugin-development.md)
+4. [Basic Theme Development](../wordpress/05-basic-theme-development.md)
+5. [REST API](../wordpress/06-rest-api.md)
+6. [WP-CLI](../wordpress/07-wp-cli.md)
+7. [Advanced Plugin Development](../wordpress/08-advanced-plugin-development.md)
+8. [Advanced Theme Development](../wordpress/09-advanced-theme-development.md)
+
+**Note:** Complete the [Development Environment Setup](dev-environment.md) before starting WordPress.
+
+**Practice:** Build custom plugins, create themes, develop Gutenberg blocks
 
 ---
 
@@ -123,7 +132,7 @@ Master WordPress from basics to advanced development.
 | HTML & CSS | [HtmlCss.md](HtmlCss.md) | 2-3 days | ⭐ Beginner |
 | JavaScript | [JavaScript.md](JavaScript.md) | 3-4 days | ⭐⭐ Beginner |
 | PHP & MySQL | [PhpMysql.md](PhpMysql.md) | 3-4 days | ⭐⭐ Beginner |
-| WordPress | [WordPress.md](WordPress.md) | 2-4 weeks | ⭐⭐⭐ Intermediate |
+| WordPress | [WordPress Development](../wordpress/index.md) | 8-12 weeks | ⭐⭐⭐ Intermediate-Advanced |
 
 ### By Resource Type
 
@@ -271,7 +280,7 @@ By the end of this module, you should be able to:
 
 **Start your journey:** [dev-environment.md](dev-environment.md)
 
-**Estimated Total Time:** 4-6 weeks of full-time learning
+**Estimated Total Time:** 12-16 weeks of full-time learning (including comprehensive WordPress)
 
 **Good luck! 🚀**
 
