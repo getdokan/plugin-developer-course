@@ -4,42 +4,30 @@ Welcome to the comprehensive onboarding program for fresher developers! This rep
 
 ## Program Overview
 
-This onboarding program covers essential topics that every developer should master, preparing you for professional WordPress and web development.
+This onboarding program covers essential topics that every developer should master.
 
 ## Repository Structure
 
 ```
 fresher-onboarding/
 ├── README.md                          # You are here
-├── mkdocs.yml                         # MkDocs configuration
-├── setup-mkdocs.sh                    # One-command setup script
-├── DOCS-WEBSITE-SETUP.md             # Documentation website setup guide
-└── docs/                              # Documentation source (MkDocs)
-    ├── index.md                       # Documentation home
-    ├── ONBOARDING-GUIDE.md           # Main comprehensive guide (START HERE!)
-    ├── debuging.md                    # Debugging tools and configuration
-    ├── programming-languages/         # Programming fundamentals
-    │   ├── dev-environment.md        # Development environment setup
-    │   ├── HtmlCss.md                # HTML & CSS resources
-    │   ├── JavaScript.md             # JavaScript resources
-    │   ├── PhpMysql.md               # PHP & MySQL resources
-    │   └── WordPress.md              # WordPress resources
-    ├── operating-system/              # OS fundamentals
-    │   └── os-fundamentals.md        # CLI, processes, system monitoring
-    └── web-fundamentals/              # Web technologies
-        └── web-basics.md              # DNS, HTTP, servers, security
+├── ONBOARDING-GUIDE.md               # Main comprehensive guide (START HERE!)
+├── debuging.md                        # Debugging tools and configuration
+├── programming-languages/             # Programming fundamentals
+│   ├── dev-environment.md            # Development environment setup
+│   ├── HtmlCss.md                    # HTML & CSS resources
+│   ├── JavaScript.md                 # JavaScript resources
+│   └── PhpMysql.md                   # PHP & MySQL resources
+├── operating-system/          # OS fundamentals
+│   └── os-fundamentals.md            # CLI, processes, system monitoring
+└── web-fundamentals/                 # Web technologies
+    └── web-basics.md                 # DNS, HTTP, servers, security
 ```
 
 ## Getting Started
 
 ### Step 1: Read the Main Guide
-Start with **[ONBOARDING-GUIDE.md](docs/ONBOARDING-GUIDE.md)** - This is your roadmap for the next 6 weeks!
-
-Or run the documentation website locally:
-```bash
-./setup-mkdocs.sh  # One-time setup
-mkdocs serve       # Start the docs site at http://127.0.0.1:8000
-```
+Start with **[ONBOARDING-GUIDE.md](ONBOARDING-GUIDE.md)** - This is your roadmap for the next 6 weeks!
 
 ### Step 2: Follow the Weekly Schedule
 The onboarding is structured as a 6-week program:
@@ -59,25 +47,24 @@ Each section includes:
 ## Quick Links
 
 ### Core Resources
-- [Main Onboarding Guide](docs/ONBOARDING-GUIDE.md) - **START HERE**
-- [Debugging Setup](docs/debuging.md)
-- [Development Environment](docs/programming-languages/dev-environment.md)
+- [Main Onboarding Guide](ONBOARDING-GUIDE.md) - **START HERE**
+- [Debugging Setup](debuging.md)
+- [Development Environment](programming-languages/dev-environment.md)
 
 ### Programming Languages
-- [HTML & CSS](docs/programming-languages/HtmlCss.md)
-- [JavaScript](docs/programming-languages/JavaScript.md)
-- [PHP & MySQL](docs/programming-languages/PhpMysql.md)
-- [WordPress](docs/programming-languages/WordPress.md)
+- [HTML & CSS](programming-languages/HtmlCss.md)
+- [JavaScript](programming-languages/JavaScript.md)
+- [PHP & MySQL](programming-languages/PhpMysql.md)
 
 ### Operating System
-- [OS Fundamentals](docs/operating-system/os-fundamentals.md)
+- [OS Fundamentals](operating-system/os-fundamentals.md)
   - Command-Line Interface (CLI)
   - Process Management
   - File Permissions
   - Shell Scripting
 
 ### Web Technologies
-- [Web Basics](docs/web-fundamentals/web-basics.md)
+- [Web Basics](web-fundamentals/web-basics.md)
   - How the Web Works
   - DNS & HTTP/HTTPS
   - Web Servers
@@ -140,12 +127,12 @@ Each section includes:
 - WP Console
 - WP Mail Logging
 
-See [dev-environment.md](docs/programming-languages/dev-environment.md) and [debuging.md](docs/debuging.md) for detailed setup instructions.
+See [dev-environment.md](programming-languages/dev-environment.md) and [debuging.md](debuging.md) for detailed setup instructions.
 
 ## Assessment & Certification
 
 ### Weekly Quizzes
-Complete quizzes at the end of each module to test your knowledge and ensure understanding.
+Complete quizzes at the end of each module to test your knowledge and track progress.
 
 ### Final Project
 Build a complete web application demonstrating:
@@ -240,19 +227,13 @@ After completing this onboarding program, you'll be ready to:
 
 ## License
 
-This onboarding material is for internal use at weDevs. Please respect any third-party resources and their respective licenses.
+This onboarding material is for internal use. Please respect any third-party resources and their respective licenses.
 
 ---
 
 ## Ready to Begin?
 
-**Start your journey here:** [ONBOARDING-GUIDE.md](docs/ONBOARDING-GUIDE.md)
-
-**Or view the beautiful docs website:**
-```bash
-./setup-mkdocs.sh  # One-time setup
-mkdocs serve       # Visit http://127.0.0.1:8000
-```
+**Start your journey here:** [ONBOARDING-GUIDE.md](ONBOARDING-GUIDE.md)
 
 Good luck, and welcome to the team!
 

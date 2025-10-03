@@ -1,10 +1,10 @@
 # 📦 What's Been Created - Summary
 
-This document summarizes the comprehensive onboarding materials created based on the [rtCamp Engineering Basics Course](https://learn.rtcamp.com/courses/engineering-basics/).
+This document summarizes the comprehensive onboarding materials created for weDevs developer onboarding.
 
 ---
 
-## 🎯 Overview
+## Overview
 
 A complete **6-week onboarding program** for fresher developers has been created, covering:
 - Programming languages (HTML, CSS, JavaScript, PHP, MySQL)
@@ -16,7 +16,7 @@ A complete **6-week onboarding program** for fresher developers has been created
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 fresher-onboarding/
@@ -25,26 +25,26 @@ fresher-onboarding/
 ├── 🚀 QUICK-START.md                     # Quick start guide (START HERE!)
 ├── 📖 ONBOARDING-GUIDE.md                # Main comprehensive guide
 ├── ✅ PROGRESS-CHECKLIST.md              # Track your progress
-├── 🔗 RTCAMP-COURSE-LINKS.md             # All rtCamp course links
+├── 🔗 COURSE-LINKS.md                    # Learning resources and external courses
 ├── 📄 SUMMARY.md                         # This file
 ├── 🐛 debuging.md                        # Debugging configuration
 │
-├── 💻 Programming Languages/
+├── 💻 programming-languages/
 │   ├── dev-environment.md                # Setup instructions
 │   ├── HtmlCss.md                        # HTML & CSS resources
 │   ├── JavaScript.md                     # JavaScript resources
 │   └── PhpMysql.md                       # PHP & MySQL resources
 │
-├── 🖥️ Operating System Basics/
+├── 🖥️ operating-system/
 │   └── os-fundamentals.md                # CLI, processes, scripting
 │
-└── 🌐 Web Fundamentals/
+└── 🌐 web-fundamentals/
     └── web-basics.md                     # DNS, HTTP, servers, security
 ```
 
 ---
 
-## 📚 Document Guide
+## Document Guide
 
 ### Core Documents
 
@@ -102,18 +102,17 @@ fresher-onboarding/
 
 ---
 
-#### 4. **RTCAMP-COURSE-LINKS.md** 🔗
-**Purpose:** All rtCamp course resources in one place  
-**Who it's for:** Anyone needing quick reference to course materials  
+#### 4. **COURSE-LINKS.md**
+**Purpose:** Curated learning resources and external courses  
+**Who it's for:** Anyone needing quick reference to learning materials  
 **What's inside:**
-- Direct links to all course modules
-- Quiz URLs
-- External resource links
+- Learning resource links
+- External tutorial references
 - Course structure overview
 - Estimated time to complete
 - Learning objectives
 
-**Use this for:** Quick access to rtCamp course materials
+**Use this for:** Quick access to learning resources
 
 ---
 
@@ -294,7 +293,7 @@ Start
   ↓
 5. Reference topic-specific docs as needed
   ↓
-6. Complete quizzes via RTCAMP-COURSE-LINKS.md
+6. Complete quizzes via COURSE-LINKS.md
   ↓
 7. Build projects (Weeks 5-6)
   ↓
@@ -323,7 +322,7 @@ Start
 
 ---
 
-## 📊 Content Statistics
+## Content Statistics
 
 ### Total Documents Created
 - **7** main guides
@@ -345,36 +344,36 @@ Start
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### ✅ Comprehensive Coverage
-- All topics from rtCamp Engineering Basics course
+### Comprehensive Coverage
+- Comprehensive coverage of web development fundamentals
 - Extended with practical examples
 - Real-world scenarios
 
-### ✅ Structured Learning Path
+### Structured Learning Path
 - Week-by-week progression
 - Day-by-day tasks
 - Clear objectives
 
-### ✅ Progress Tracking
+### Progress Tracking
 - Checkboxes for every task
 - Self-assessment tools
 - Mentor evaluation forms
 
-### ✅ Practical Focus
+### Practical Focus
 - Hands-on exercises
 - Practice problems
 - Real projects
 - Code reviews
 
-### ✅ Resource Rich
+### Resource Rich
 - Direct links to tutorials
 - Code examples
 - Command references
 - Best practices
 
-### ✅ Support Systems
+### Support Systems
 - Mentor guidance structure
 - Peer learning suggestions
 - Help resources
@@ -382,7 +381,7 @@ Start
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 After completing this onboarding program, developers will be able to:
 
@@ -414,7 +413,7 @@ After completing this onboarding program, developers will be able to:
 
 ---
 
-## 🔄 How to Use This Repository
+## How to Use This Repository
 
 ### For Individual Learners
 1. Start with **QUICK-START.md**
@@ -440,7 +439,7 @@ After completing this onboarding program, developers will be able to:
 
 ---
 
-## 🛠️ Customization
+## Customization
 
 This repository can be customized by:
 
@@ -474,12 +473,7 @@ Track success using:
 
 ---
 
-## 🔗 External Dependencies
-
-### rtCamp Course
-- Main course: https://learn.rtcamp.com/courses/engineering-basics/
-- Quizzes hosted on rtCamp platform
-- Some resources link to rtCamp content
+## External Dependencies
 
 ### Third-Party Resources
 - MDN Web Docs
@@ -489,10 +483,10 @@ Track success using:
 
 ---
 
-## 📝 Notes for Repository Maintainers
+## Notes for Repository Maintainers
 
 ### Regular Updates Needed
-- Check rtCamp course for updates
+- Check external resources for updates
 - Update software versions (PHP, MySQL, Node)
 - Refresh external links
 - Update best practices
@@ -511,7 +505,7 @@ Track success using:
 
 ---
 
-## 🎊 Completion
+## Completion
 
 ### What You've Built
 A comprehensive, production-ready onboarding program that includes:
@@ -543,10 +537,9 @@ To improve this onboarding program:
 
 ---
 
-## 🏆 Acknowledgments
+## Acknowledgments
 
 Based on:
-- [rtCamp Engineering Basics Course](https://learn.rtcamp.com/courses/engineering-basics/)
 - Industry best practices
 - Clean code principles
 - Real-world development experience

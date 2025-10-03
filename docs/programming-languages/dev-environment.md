@@ -2,7 +2,7 @@
 
 Complete setup guide for your development machine.
 
-## 🎯 Pre-boarding Checklist
+## Pre-boarding Checklist
 
 Before you start, ensure you have:
 - [ ] MacBook or development machine
@@ -11,7 +11,7 @@ Before you start, ensure you have:
 - [ ] Access to GitHub repositories and projects
 - [ ] Code editor installed (see below)
 
-## 🛠️ Required Software
+## Required Software
 
 ### 1. Code Editor
 
@@ -146,7 +146,7 @@ After setup is complete:
 3. Then move to [JavaScript](JavaScript.md)
 4. Finally learn [PHP & MySQL](PhpMysql.md)
 
-## 🆘 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 

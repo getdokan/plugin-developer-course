@@ -1,6 +1,6 @@
 # Fresher Developer Onboarding Guide
 
-Welcome to the developer onboarding program! This comprehensive guide will help you build a solid foundation in engineering principles, development environments, and web technologies. The guide is based on [rtCamp's Engineering Basics Course](https://learn.rtcamp.com/courses/engineering-basics/).
+Welcome to the developer onboarding program! This comprehensive guide will help you build a solid foundation in engineering principles, development environments, and web technologies.
 
 ---
 
@@ -79,7 +79,6 @@ Welcome to the developer onboarding program! This comprehensive guide will help 
 - [ ] Learn basic Git commands (clone, pull, push, commit, branch, merge)
 
 #### Learning Resources:
-- [Setting up Development Environment](https://learn.rtcamp.com/courses/engineering-basics/l/setting-up-development-environment/)
 - [Git Documentation](https://git-scm.com/doc)
 - [VSCode Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
@@ -111,7 +110,7 @@ git push origin feature/your-feature-name
 - [ ] Complete the responsive layout exercise
 - [ ] Play Flexbox Froggy game
 - [ ] Play CSS Grid Garden game
-- [ ] Take the [HTML & CSS Quiz](https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/html-css/quizzes/external-html-css-quiz/)
+- [ ] Complete HTML & CSS Quiz
 
 #### Learning Resources:
 See [HtmlCss.md](Programming%20Languages/HtmlCss.md) for detailed resources including:
@@ -145,7 +144,7 @@ Create a responsive three-column layout that stacks vertically on mobile devices
 - [ ] Understand promises and async/await
 - [ ] Fix the Array Sum Function (Problem 1)
 - [ ] Solve JavaScript Type Coercion exercise (Problem 2)
-- [ ] Take the [JavaScript Quiz](https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/javascript/quizzes/external-javascript-quiz/)
+- [ ] Complete JavaScript Quiz
 
 #### Learning Resources:
 See [JavaScript.md](Programming%20Languages/JavaScript.md) for:
@@ -179,7 +178,7 @@ See [JavaScript.md](Programming%20Languages/JavaScript.md) for:
 - [ ] Learn MySQL database operations
 - [ ] Debug the Log Function (Problem 1)
 - [ ] Fix Email Validation (Problem 2)
-- [ ] Take the [PHP Quiz](https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/php-mysql/quizzes/external-php-quiz/)
+- [ ] Complete PHP Quiz
 
 #### Learning Resources:
 See [PhpMysql.md](Programming%20Languages/PhpMysql.md) for:
@@ -236,7 +235,6 @@ chown user:group file.txt
 ```
 
 #### Learning Resources:
-- [Operating System Basics](https://learn.rtcamp.com/courses/engineering-basics/l/operating-system-basics/)
 - [Linux Command Line Basics](https://ubuntu.com/tutorials/command-line-for-beginners)
 
 ---
@@ -330,7 +328,6 @@ journalctl -f
 - [ ] Understand cookies and sessions
 
 #### Learning Resources:
-- [Web Basics](https://learn.rtcamp.com/courses/engineering-basics/l/web/t/how-the-web-works/)
 - [MDN: How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 #### HTTP Methods:

@@ -2,18 +2,20 @@
 
 Learn server-side programming and database management.
 
-## 🎯 Quick Start
+## Quick Start
 
 **New to PHP? Start here:**
+
 - [Laracasts: PHP for Beginners (2023)](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/1) - Complete video series
 - [Laracasts: OOP Principles in PHP (2024)](https://laracasts.com/series/object-oriented-principles-in-php-2024-edition/episodes/1) - Object-oriented programming
 - [PHP 8 Tutorial](https://www.w3schools.com/php/) - Interactive tutorials
 
 **Database:**
+
 - [Laracasts: MySQL Database Design](https://laracasts.com/series/mysql-database-design/episodes/1) - Video series
 - [MySQL Tutorial](https://www.w3schools.com/php/php_mysql_intro.asp) - PHP + MySQL integration
 
-## 🛠️ Required Tools Setup
+## Required Tools Setup
 
 Install these before starting:
 - **Composer** - PHP dependency manager ([Download](https://getcomposer.org/))
@@ -33,7 +35,7 @@ composer --version
 mysql --version
 ```
 
-## 📚 Core Learning
+## Core Learning
 
 ### PHP Fundamentals
 - [PHP Language Reference](https://php.net/manual/en/langref.php) - Official documentation
@@ -47,7 +49,7 @@ mysql --version
 ### MySQL
 - [MySQL Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/mysql/) - Complete database guide
 
-## 💻 Practice Problems
+## Practice Problems
 
 ### Problem 1: Debug the Log Function 🐛
 
@@ -108,8 +110,8 @@ Master these PHP concepts:
 - **Error Handling** - `try/catch`, `throw`, custom exceptions
 - **Autoloading** - PSR-4, Composer autoloader
 
-## ✅ Test Your Knowledge
+## Test Your Knowledge
 
-[Take the PHP & MySQL Quiz →](https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/php-mysql/quizzes/external-php-quiz/)
+[Take the PHP & MySQL Quiz →](#)
 
 **Goal:** Score 70% or higher

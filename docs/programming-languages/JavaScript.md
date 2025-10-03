@@ -2,13 +2,14 @@
 
 Master modern JavaScript for interactive web applications.
 
-## 🎯 Quick Start
+## Quick Start
 
 **New to JavaScript? Start here:**
+
 - [Laracasts: JavaScript - The First Steps](https://laracasts.com/series/javascript-the-first-steps/episodes/1) - Video series
 - [JavaScript Notes & Reference](https://wesbos.com/javascript) - Comprehensive guide
 
-## 📚 Core Learning
+## Core Learning
 
 ### Fundamentals
 - [ES6 Tutorial](https://www.javascripttutorial.net/es6/) - Modern JavaScript features
@@ -18,7 +19,7 @@ Master modern JavaScript for interactive web applications.
 ### Best Practices
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Write maintainable code
 
-## 🛠️ Required Tools Setup
+## Required Tools Setup
 
 Before coding, install these tools:
 - **Node.js** - JavaScript runtime ([Download](https://nodejs.org/))
@@ -32,7 +33,7 @@ npm --version
 nvm --version
 ```
 
-## 💻 Practice Problems
+## Practice Problems
 
 ### Problem 1: Fix the Array Sum Function 🐛
 
@@ -85,8 +86,8 @@ Master these JavaScript concepts:
 - **Hoisting** - Variable and function declarations
 - **Promises & Async/Await** - Modern asynchronous programming
 
-## ✅ Test Your Knowledge
+## Test Your Knowledge
 
-[Take the JavaScript Quiz →](https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/javascript/quizzes/external-javascript-quiz/)
+[Take the JavaScript Quiz →](#)
 
 **Goal:** Score 70% or higher

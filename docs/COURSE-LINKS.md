@@ -1,26 +1,20 @@
-# rtCamp Engineering Basics Course - Complete Link Reference
+# Developer Learning Resources - Complete Reference
 
-This document contains all the links and resources from the [rtCamp Engineering Basics Course](https://learn.rtcamp.com/courses/engineering-basics/).
-
----
-
-## 📚 Course Overview
-
-**Main Course URL:** https://learn.rtcamp.com/courses/engineering-basics/
-
-The rtCamp Engineering Basics course covers fundamental engineering concepts essential for WordPress and web development. It's designed to provide a strong foundation for developers entering the field.
+This document contains curated learning resources and external courses for web development fundamentals.
 
 ---
 
-## 🎯 Course Modules
+## Overview
+
+This guide provides essential learning resources for WordPress and web development, covering fundamental engineering concepts to build a strong foundation for developers entering the field.
+
+---
+
+## Course Modules
 
 ### 1. Programming Languages
 
-**Module URL:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/
-
 #### 1.1 HTML & CSS
-- **Lesson URL:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/html-css/
-- **Quiz:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/html-css/quizzes/external-html-css-quiz/
 
 **Topics Covered:**
 - HTML5 structure and semantic tags
@@ -39,8 +33,6 @@ The rtCamp Engineering Basics course covers fundamental engineering concepts ess
 ---
 
 #### 1.2 JavaScript
-- **Lesson URL:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/javascript/
-- **Quiz:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/javascript/quizzes/external-javascript-quiz/
 
 **Topics Covered:**
 - JavaScript fundamentals
@@ -60,8 +52,6 @@ The rtCamp Engineering Basics course covers fundamental engineering concepts ess
 ---
 
 #### 1.3 PHP & MySQL
-- **Lesson URL:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/php-mysql/
-- **Quiz:** https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/php-mysql/quizzes/external-php-quiz/
 
 **Topics Covered:**
 - PHP 8 features and syntax
@@ -80,8 +70,6 @@ The rtCamp Engineering Basics course covers fundamental engineering concepts ess
 ---
 
 ### 2. Operating System Basics
-
-**Module URL:** https://learn.rtcamp.com/courses/engineering-basics/l/operating-system-basics/
 
 **Topics Covered:**
 - Command-line interface (CLI)
@@ -102,8 +90,6 @@ The rtCamp Engineering Basics course covers fundamental engineering concepts ess
 
 ### 3. Setting up Development Environment
 
-**Module URL:** https://learn.rtcamp.com/courses/engineering-basics/l/setting-up-development-environment/
-
 **Topics Covered:**
 - Package installation and management
 - Local server setup
@@ -123,10 +109,7 @@ The rtCamp Engineering Basics course covers fundamental engineering concepts ess
 
 ### 4. Web Basics
 
-**Module URL:** https://learn.rtcamp.com/courses/engineering-basics/l/web/
-
 #### 4.1 How the Web Works
-- **Lesson URL:** https://learn.rtcamp.com/courses/engineering-basics/l/web/t/how-the-web-works/
 
 **Topics Covered:**
 - Client-server architecture
@@ -186,21 +169,13 @@ The rtCamp Engineering Basics course covers fundamental engineering concepts ess
 
 ---
 
-## 📝 All Quizzes
+## Quizzes and Assessments
 
-Complete these quizzes to test your knowledge:
+Complete quizzes to test your knowledge:
 
-1. **HTML & CSS Quiz**
-   - https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/html-css/quizzes/external-html-css-quiz/
-   - Minimum passing score: 70%
-
-2. **JavaScript Quiz**
-   - https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/javascript/quizzes/external-javascript-quiz/
-   - Minimum passing score: 70%
-
-3. **PHP & MySQL Quiz**
-   - https://learn.rtcamp.com/courses/engineering-basics/l/programming-languages/t/php-mysql/quizzes/external-php-quiz/
-   - Minimum passing score: 70%
+1. **HTML & CSS Quiz** - Minimum passing score: 70%
+2. **JavaScript Quiz** - Minimum passing score: 70%
+3. **PHP & MySQL Quiz** - Minimum passing score: 70%
 
 ---
 
@@ -222,7 +197,7 @@ Upon successful completion of all modules and assessments, you'll have demonstra
 
 ---
 
-## 💡 How to Use This Course
+## How to Use This Guide
 
 ### Step 1: Sequential Learning
 Follow the modules in order:
@@ -249,9 +224,9 @@ Apply your knowledge by building:
 
 ---
 
-## 🔗 Related Resources from Course
+## External Learning Resources
 
-### External Learning Platforms Referenced
+### Learning Platforms
 - **MDN Web Docs**: https://developer.mozilla.org/
 - **W3Schools**: https://www.w3schools.com/
 - **JavaScript Tutorial**: https://www.javascripttutorial.net/
@@ -284,10 +259,10 @@ Apply your knowledge by building:
 
 ---
 
-## 📊 Course Structure Summary
+## Learning Structure Summary
 
 ```
-rtCamp Engineering Basics
+Developer Onboarding Program
 │
 ├── Programming Languages
 │   ├── HTML & CSS (+ Quiz)
@@ -336,9 +311,9 @@ rtCamp Engineering Basics
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
-By completing the rtCamp Engineering Basics course, you will:
+By completing this onboarding program, you will:
 
 ### Knowledge
 - Understand fundamental web technologies
@@ -363,13 +338,7 @@ By completing the rtCamp Engineering Basics course, you will:
 
 ---
 
-## 📞 Support & Community
-
-### Official rtCamp Channels
-For course-specific questions and support, visit:
-- **rtCamp Website**: https://rtcamp.com/
-- **rtCamp Blog**: https://rtcamp.com/blog/
-- **rtCamp GitHub**: https://github.com/rtCamp
+## Support & Community
 
 ### Getting Help
 - Review the course materials thoroughly
@@ -380,15 +349,7 @@ For course-specific questions and support, visit:
 
 ---
 
-## 🏆 Certification
-
-While this repository is for internal onboarding, the rtCamp Engineering Basics course itself may offer certification upon completion. Check the official course website for details:
-
-https://learn.rtcamp.com/courses/engineering-basics/
-
----
-
-## 📝 Notes for Instructors/Mentors
+## Notes for Instructors/Mentors
 
 ### Using This Course for Onboarding
 - Follow the structured path in [ONBOARDING-GUIDE.md](ONBOARDING-GUIDE.md)
@@ -405,19 +366,9 @@ https://learn.rtcamp.com/courses/engineering-basics/
 
 ---
 
-## 🔄 Course Updates
-
-rtCamp may update the course content periodically. Check the official course website for:
-- New modules or lessons
-- Updated resources
-- Additional quizzes
-- Enhanced content
-
-**Last Checked:** October 2025
-
 ---
 
-## 📚 Additional Resources
+## Additional Resources
 
 ### Complementary Courses
 After completing Engineering Basics, consider:
@@ -440,5 +391,5 @@ After completing Engineering Basics, consider:
 
 ---
 
-*This reference guide is maintained internally and is based on publicly available information from rtCamp's Engineering Basics course.*
+*This reference guide is maintained internally for weDevs developer onboarding.*
 

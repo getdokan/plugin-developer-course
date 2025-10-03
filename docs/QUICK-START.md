@@ -4,7 +4,7 @@
 
 ---
 
-## ⚡ TL;DR (Too Long; Didn't Read)
+## TL;DR (Too Long; Didn't Read)
 
 You're about to complete a **6-week onboarding program** that will teach you:
 - Programming (HTML, CSS, JavaScript, PHP, MySQL)
@@ -16,7 +16,7 @@ You're about to complete a **6-week onboarding program** that will teach you:
 
 ---
 
-## 📋 What You Need to Know
+## What You Need to Know
 
 ### Duration
 **6 weeks** (full-time focus)  
@@ -35,7 +35,7 @@ or
 
 ---
 
-## 🗺️ Your Journey in 6 Weeks
+## Your Journey in 6 Weeks
 
 ```
 Week 1: Setup & Introduction
@@ -55,7 +55,7 @@ Week 6: Build a Web App
 
 ---
 
-## 📁 Important Files (Read in Order)
+## Important Files (Read in Order)
 
 ### 1. **START HERE** 👉 [ONBOARDING-GUIDE.md](ONBOARDING-GUIDE.md)
 Your main roadmap with detailed week-by-week instructions.
@@ -63,18 +63,18 @@ Your main roadmap with detailed week-by-week instructions.
 ### 2. [PROGRESS-CHECKLIST.md](PROGRESS-CHECKLIST.md)
 Track your daily progress and check off completed tasks.
 
-### 3. [RTCAMP-COURSE-LINKS.md](RTCAMP-COURSE-LINKS.md)
-All the links from the rtCamp course in one place.
+### 3. [COURSE-LINKS.md](COURSE-LINKS.md)
+Curated learning resources and external tutorials in one place.
 
 ### 4. Supporting Materials
 - [debuging.md](debuging.md) - Debugging setup
-- [Programming Languages/](Programming%20Languages/) - Code tutorials
-- [Operating System Basics/](Operating%20System%20Basics/) - CLI and system commands
-- [Web Fundamentals/](Web%20Fundamentals/) - How the web works
+- [programming-languages/](Programming%20Languages/) - Code tutorials
+- [operating-system/](Operating%20System%20Basics/) - CLI and system commands
+- [web-fundamentals/](Web%20Fundamentals/) - How the web works
 
 ---
 
-## 🎯 Week-by-Week Overview
+## Week-by-Week Overview
 
 ### Week 1: Get Ready
 **Goal:** Set up your development environment
@@ -153,7 +153,7 @@ All the links from the rtCamp course in one place.
 
 ---
 
-## 🛠️ Software You'll Need
+## Software You'll Need
 
 ### Day 1 Installs
 1. **Laravel Herd** - Local PHP server
@@ -163,11 +163,11 @@ All the links from the rtCamp course in one place.
 5. **VSCode or PhpStorm** - Code editor
 
 ### Instructions
-See [Programming Languages/dev-environment.md](Programming%20Languages/dev-environment.md)
+See [programming-languages/dev-environment.md](Programming%20Languages/dev-environment.md)
 
 ---
 
-## 📚 Daily Routine
+## Daily Routine
 
 ### Morning (2-3 hours)
 1. ☕ **Read** - Study the day's material
@@ -206,7 +206,7 @@ Your mentor will review your code and provide feedback. This is how you'll impro
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 
 ### DO:
 ✅ Ask questions (no question is too small!)  
@@ -227,7 +227,7 @@ Your mentor will review your code and provide feedback. This is how you'll impro
 
 ---
 
-## 🆘 When You're Stuck
+## When You're Stuck
 
 ### The 30-Minute Rule
 Try to solve it yourself for 30 minutes first:
@@ -243,7 +243,7 @@ Try to solve it yourself for 30 minutes first:
 
 ---
 
-## 📞 Your Support Team
+## Your Support Team
 
 ### Your Mentor
 **Name:** _________________  
@@ -276,7 +276,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## 🎯 Success Metrics
+## Success Metrics
 
 ### You're on Track If:
 - ✅ Completing daily tasks
@@ -295,7 +295,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## 📅 Important Dates
+## Important Dates
 
 **Start Date:** _________________
 
@@ -327,7 +327,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## 📖 Glossary of Terms
+## Glossary of Terms
 
 **CLI** - Command Line Interface (the terminal)  
 **IDE** - Integrated Development Environment (your code editor)  
@@ -342,12 +342,12 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 ### Learning Resources
 - [Main Guide](ONBOARDING-GUIDE.md) - Start here
 - [Progress Tracker](PROGRESS-CHECKLIST.md) - Check off tasks
-- [rtCamp Course](https://learn.rtcamp.com/courses/engineering-basics/) - Online course
+- [Course Resources](COURSE-LINKS.md) - Learning materials
 
 ### Documentation
 - [MDN Web Docs](https://developer.mozilla.org/) - Best web reference
@@ -361,7 +361,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 ### Q: What if I fall behind?
 **A:** Talk to your mentor immediately. We can adjust the pace or provide extra support.
@@ -383,7 +383,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## 🎊 Ready to Begin?
+## Ready to Begin?
 
 ### Your First Steps:
 
@@ -399,7 +399,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## 💪 Motivation
+## Motivation
 
 > "The only way to learn programming is by programming."  
 > — Dennis Ritchie
@@ -415,7 +415,7 @@ Your buddy is another learner or junior dev who:
 
 ---
 
-## ✨ Final Words
+## Final Words
 
 Welcome to your development journey! 
 
