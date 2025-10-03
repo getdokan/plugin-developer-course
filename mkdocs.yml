@@ -1,5 +1,5 @@
-site_name: Developer Onboarding Guide
-site_description: Comprehensive onboarding for fresher developers at weDevs
+site_name: Plugin Developer Course
+site_description: Comprehensive onboarding for Plugin Developers at weDevs
 site_author: weDevs
 site_url: https://getdokan.github.io/plugin-developer-course
 
@@ -69,7 +69,7 @@ theme:
     view: material/eye
   
   # Logo
-  logo: assets/wedevs-logo-white.svg
+  logo: assets/favicon.png
   favicon: assets/favicon.png
 
 # Plugins
@@ -170,7 +170,7 @@ extra:
       link: https://wedevs.com
       name: weDevs Website
     - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/weDevsOfficial
+      link: https://x.com/weDevs
       name: Twitter
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/wedevs
