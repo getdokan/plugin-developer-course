@@ -1,15 +1,15 @@
 site_name: Developer Onboarding Guide
-site_description: Comprehensive onboarding for fresher developers
-site_author: Your Organization
-site_url: https://your-org.github.io/fresher-onboarding
+site_description: Comprehensive onboarding for fresher developers at weDevs
+site_author: weDevs
+site_url: https://getdokan.github.io/plugin-developer-course
 
 # Repository
-repo_name: your-org/fresher-onboarding
-repo_url: https://github.com/your-org/fresher-onboarding
+repo_name: getdokan/plugin-developer-course
+repo_url: https://github.com/getdokan/plugin-developer-course
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2025 Your Organization
+copyright: Copyright &copy; 2025 weDevs
 
 # Theme configuration
 theme:
@@ -67,7 +67,10 @@ theme:
     repo: fontawesome/brands/github
     edit: material/pencil
     view: material/eye
-    logo: material/school
+  
+  # Logo - using Material icon for now (add custom logo to docs/assets/)
+  # logo: assets/wedevs-logo.svg
+  # favicon: assets/favicon.png
 
 # Plugins
 plugins:
@@ -161,14 +164,17 @@ extra:
   # Social links
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-org
+      link: https://github.com/getdokan
       name: GitHub
-    - icon: fontawesome/brands/slack
-      link: https://your-org.slack.com
-      name: Slack
-    - icon: fontawesome/solid/envelope
-      link: mailto:team@your-org.com
-      name: Email
+    - icon: fontawesome/solid/globe
+      link: https://wedevs.com
+      name: weDevs Website
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/weDevsOfficial
+      name: Twitter
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/wedevs
+      name: Facebook
   
   # Version
   version:
