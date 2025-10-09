@@ -2,98 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/CHANGELOG/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/COURSE-LINKS/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/ONBOARDING-GUIDE/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/PROGRESS-CHECKLIST/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/QUICK-START/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/SUMMARY/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/debuging/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/operating-system/os-fundamentals/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/</loc>
-         <lastmod>2025-10-03</lastmod>
-    </url>
-    <url>
-         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/HtmlCss/</loc>
-         <lastmod>2025-10-03</lastmod>
-    </url>
-    <url>
-         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/JavaScript/</loc>
-         <lastmod>2025-10-03</lastmod>
-    </url>
-    <url>
-         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/PhpMysql/</loc>
-         <lastmod>2025-10-03</lastmod>
-    </url>
-    <url>
-         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/WordPress/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/dev-environment/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
+    </url>
+    <url>
+         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/html-css/</loc>
+         <lastmod>2025-10-09</lastmod>
+    </url>
+    <url>
+         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/javascript/</loc>
+         <lastmod>2025-10-09</lastmod>
+    </url>
+    <url>
+         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/php-mysql/</loc>
+         <lastmod>2025-10-09</lastmod>
+    </url>
+    <url>
+         <loc>https://getdokan.github.io/plugin-developer-course/programming-languages/wordpress1/</loc>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/web-fundamentals/web-basics/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/02-introducing-wordpress/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/03-coding-conventions/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/04-basic-plugin-development/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/05-basic-theme-development/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/06-rest-api/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/07-wp-cli/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
     <url>
          <loc>https://getdokan.github.io/plugin-developer-course/wordpress/SUMMARY/</loc>
-         <lastmod>2025-10-03</lastmod>
+         <lastmod>2025-10-09</lastmod>
     </url>
 </urlset>
