@@ -17,6 +17,7 @@ This guide provides essential learning resources for WordPress and web developme
 #### 1.1 HTML & CSS
 
 **Topics Covered:**
+
 - HTML5 structure and semantic tags
 - CSS3 styling and layouts
 - Flexbox and Grid
@@ -24,6 +25,7 @@ This guide provides essential learning resources for WordPress and web developme
 - BEM methodology
 
 **Key Learning Resources Referenced:**
+
 - MDN Web Docs (HTML & CSS)
 - Learn to Code HTML & CSS by Shay Howe
 - Flexbox Froggy (interactive game)
@@ -35,6 +37,7 @@ This guide provides essential learning resources for WordPress and web developme
 #### 1.2 JavaScript
 
 **Topics Covered:**
+
 - JavaScript fundamentals
 - ES6+ features
 - Closures and scope
@@ -43,6 +46,7 @@ This guide provides essential learning resources for WordPress and web developme
 - Clean code concepts
 
 **Key Learning Resources Referenced:**
+
 - Wes Bos JavaScript Notes & Reference
 - ES6 Tutorial (javascripttutorial.net)
 - ECMAScript History
@@ -54,6 +58,7 @@ This guide provides essential learning resources for WordPress and web developme
 #### 1.3 PHP & MySQL
 
 **Topics Covered:**
+
 - PHP 8 features and syntax
 - PHP namespaces
 - MySQL database operations
@@ -61,6 +66,7 @@ This guide provides essential learning resources for WordPress and web developme
 - Clean code in PHP
 
 **Key Learning Resources Referenced:**
+
 - PHP 8 Tutorial (W3Schools)
 - PHP Tutorial (TutorialsPoint)
 - Clean Code PHP (GitHub repo)
@@ -72,6 +78,7 @@ This guide provides essential learning resources for WordPress and web developme
 ### 2. Operating System Basics
 
 **Topics Covered:**
+
 - Command-line interface (CLI)
 - Process management
 - Inter-process communication
@@ -80,6 +87,7 @@ This guide provides essential learning resources for WordPress and web developme
 - Shell scripting
 
 **Key Concepts:**
+
 - Terminal operations and navigation
 - File system and permissions
 - Process lifecycle and signals
@@ -91,6 +99,7 @@ This guide provides essential learning resources for WordPress and web developme
 ### 3. Setting up Development Environment
 
 **Topics Covered:**
+
 - Package installation and management
 - Local server setup
 - IDE configuration
@@ -99,6 +108,7 @@ This guide provides essential learning resources for WordPress and web developme
 - Development workflows
 
 **Key Tools:**
+
 - Git for version control
 - Local development servers
 - Code editors and IDEs
@@ -112,6 +122,7 @@ This guide provides essential learning resources for WordPress and web developme
 #### 4.1 How the Web Works
 
 **Topics Covered:**
+
 - Client-server architecture
 - Request-response cycle
 - Web browsers and rendering
@@ -121,6 +132,7 @@ This guide provides essential learning resources for WordPress and web developme
 
 #### 4.2 DNS (Domain Name System)
 **Topics Covered:**
+
 - DNS hierarchy
 - DNS record types (A, AAAA, CNAME, MX, TXT, NS)
 - DNS resolution process
@@ -131,6 +143,7 @@ This guide provides essential learning resources for WordPress and web developme
 
 #### 4.3 HTTP/HTTPS
 **Topics Covered:**
+
 - HTTP methods (GET, POST, PUT, PATCH, DELETE)
 - HTTP status codes
 - HTTP headers
@@ -141,6 +154,7 @@ This guide provides essential learning resources for WordPress and web developme
 
 #### 4.4 Web Servers
 **Topics Covered:**
+
 - Apache HTTP Server
 - Nginx
 - Virtual hosts
@@ -152,6 +166,7 @@ This guide provides essential learning resources for WordPress and web developme
 
 #### 4.5 Rendering Engines
 **Topics Covered:**
+
 - Browser rendering engines (Blink, WebKit, Gecko)
 - Critical Rendering Path
 - DOM and CSSOM
@@ -162,6 +177,7 @@ This guide provides essential learning resources for WordPress and web developme
 
 #### 4.6 Email Systems
 **Topics Covered:**
+
 - SMTP, POP3, IMAP protocols
 - Email authentication (SPF, DKIM, DMARC)
 - Sending emails from applications
@@ -227,35 +243,35 @@ Apply your knowledge by building:
 ## External Learning Resources
 
 ### Learning Platforms
-- **MDN Web Docs**: https://developer.mozilla.org/
-- **W3Schools**: https://www.w3schools.com/
-- **JavaScript Tutorial**: https://www.javascripttutorial.net/
-- **TutorialsPoint**: https://www.tutorialspoint.com/
+- **MDN Web Docs**: [https://developer.mozilla.org/](https://developer.mozilla.org/)
+- **W3Schools**: [https://www.w3schools.com/](https://www.w3schools.com/)
+- **JavaScript Tutorial**: [https://www.javascripttutorial.net/](https://www.javascripttutorial.net/)
+- **TutorialsPoint**: [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
 
 ### Interactive Learning Games
-- **Flexbox Froggy**: http://flexboxfroggy.com/
-- **CSS Grid Garden**: http://cssgridgarden.com/
+- **Flexbox Froggy**: [http://flexboxfroggy.com/](http://flexboxfroggy.com/)
+- **CSS Grid Garden**: [http://cssgridgarden.com/](http://cssgridgarden.com/)
 
 ### Code Standards & Best Practices
-- **Code Guide**: https://codeguide.co/
-- **Clean Code JavaScript**: https://github.com/ryanmcdermott/clean-code-javascript
-- **Clean Code PHP**: https://github.com/jupeter/clean-code-php
-- **BEM Methodology**: http://getbem.com/
+- **Code Guide**: [https://codeguide.co/](https://codeguide.co/)
+- **Clean Code JavaScript**: [https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- **Clean Code PHP**: [https://github.com/jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)
+- **BEM Methodology**: [http://getbem.com/](http://getbem.com/)
 
 ### CSS Resources
-- **Learn CSS Layout**: http://learnlayout.com/
-- **CSS Flexbox Guide**: https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac
-- **Learn to Code HTML & CSS**: https://learn.shayhowe.com/
-- **SASS Documentation**: https://sass-lang.com/
+- **Learn CSS Layout**: [http://learnlayout.com/](http://learnlayout.com/)
+- **CSS Flexbox Guide**: [https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac](https://medium.com/swlh/css-flexbox-fundamentals-visual-guide-1c467f480dac)
+- **Learn to Code HTML & CSS**: [https://learn.shayhowe.com/](https://learn.shayhowe.com/)
+- **SASS Documentation**: [https://sass-lang.com/](https://sass-lang.com/)
 
 ### JavaScript Resources
-- **Wes Bos JavaScript Notes**: https://wesbos.com/javascript
-- **ECMAScript History**: https://webreference.com/javascript/basics/versions/
+- **Wes Bos JavaScript Notes**: [https://wesbos.com/javascript](https://wesbos.com/javascript)
+- **ECMAScript History**: [https://webreference.com/javascript/basics/versions/](https://webreference.com/javascript/basics/versions/)
 
 ### PHP Resources
-- **PHP Manual**: https://php.net/manual/
-- **PHP Namespaces**: https://php.net/manual/en/language.namespaces.php
-- **PHP Language Reference**: https://php.net/manual/en/langref.php
+- **PHP Manual**: [https://php.net/manual/](https://php.net/manual/)
+- **PHP Namespaces**: [https://php.net/manual/en/language.namespaces.php](https://php.net/manual/en/language.namespaces.php)
+- **PHP Language Reference**: [https://php.net/manual/en/langref.php](https://php.net/manual/en/langref.php)
 
 ---
 

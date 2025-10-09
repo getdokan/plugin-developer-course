@@ -11,6 +11,7 @@ Follow this order for best results:
 Set up your development machine with all required tools.
 
 **What you'll install:**
+
 - VS Code
 - Laravel Herd (PHP)
 - Composer
@@ -24,11 +25,12 @@ Set up your development machine with all required tools.
 
 ---
 
-### 2. **[HTML & CSS](HtmlCss.md)** 🎨
+### 2. **[HTML & CSS](html-css.md)** 🎨
 **Time:** 2-3 days  
 Learn web structure and styling fundamentals.
 
 **Topics:**
+
 - HTML5 semantic tags
 - CSS3 layouts (Flexbox, Grid)
 - Responsive design
@@ -36,6 +38,7 @@ Learn web structure and styling fundamentals.
 - SASS preprocessor
 
 **Quick Start:**
+
 - [W3Schools Tutorial](https://www.w3schools.com/HTML/html_css.asp)
 - [Video Course](https://www.youtube.com/watch?v=a_iQb1lnAEQ)
 - [Laracasts: HTML & CSS Workshop](https://laracasts.com/series/html-and-css-workshop)
@@ -45,11 +48,12 @@ Learn web structure and styling fundamentals.
 
 ---
 
-### 3. **[JavaScript](JavaScript.md)** ⚡
+### 3. **[JavaScript](javascript.md)** ⚡
 **Time:** 3-4 days  
 Master interactive web programming.
 
 **Topics:**
+
 - ES6+ modern syntax
 - Closures & scope
 - Event loop
@@ -58,6 +62,7 @@ Master interactive web programming.
 - Clean code practices
 
 **Quick Start:**
+
 - [Laracasts: JavaScript - The First Steps](https://laracasts.com/series/javascript-the-first-steps/episodes/1)
 - [Wes Bos JavaScript Notes](https://wesbos.com/javascript)
 
@@ -67,11 +72,12 @@ Master interactive web programming.
 
 ---
 
-### 4. **[PHP & MySQL](PhpMysql.md)** 🐘
+### 4. **[PHP & MySQL](php-mysql.md)** 🐘
 **Time:** 3-4 days  
 Learn server-side programming and databases.
 
 **Topics:**
+
 - PHP 8 syntax
 - Object-Oriented Programming
 - Namespaces
@@ -81,6 +87,7 @@ Learn server-side programming and databases.
 - Clean code practices
 
 **Quick Start:**
+
 - [Laracasts: PHP for Beginners (2023)](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/1)
 - [Laracasts: OOP in PHP (2024)](https://laracasts.com/series/object-oriented-principles-in-php-2024-edition/episodes/1)
 - [Laracasts: MySQL Database Design](https://laracasts.com/series/mysql-database-design/episodes/1)
@@ -91,11 +98,12 @@ Learn server-side programming and databases.
 
 ---
 
-### 5. **[WordPress Development](WordPress.md)** 🌐
+### 5. **[WordPress Development](wordpress.md)** 🌐
 **Time:** 2-4 weeks  
 Master WordPress from basics to advanced development.
 
 **Topics:**
+
 - WordPress administration
 - Plugin development
 - Theme development
@@ -106,6 +114,7 @@ Master WordPress from basics to advanced development.
 - Dokan multi-vendor
 
 **Quick Start:**
+
 - [WordPress Plugin Handbook](https://developer.wordpress.org/plugins/)
 - [WP-CLI Documentation](https://wp-cli.org/)
 - [React Tutorial](https://www.youtube.com/watch?v=x4rFhThSX04) (for Gutenberg)
@@ -120,14 +129,15 @@ Master WordPress from basics to advanced development.
 
 | Technology | Guide | Time | Difficulty |
 |------------|-------|------|------------|
-| HTML & CSS | [HtmlCss.md](HtmlCss.md) | 2-3 days | ⭐ Beginner |
-| JavaScript | [JavaScript.md](JavaScript.md) | 3-4 days | ⭐⭐ Beginner |
-| PHP & MySQL | [PhpMysql.md](PhpMysql.md) | 3-4 days | ⭐⭐ Beginner |
-| WordPress | [WordPress.md](WordPress.md) | 2-4 weeks | ⭐⭐⭐ Intermediate |
+| HTML & CSS | [html-css.md](html-css.md) | 2-3 days | ⭐ Beginner |
+| JavaScript | [javascript.md](javascript.md) | 3-4 days | ⭐⭐ Beginner |
+| PHP & MySQL | [php-mysql.md](php-mysql.md) | 3-4 days | ⭐⭐ Beginner |
+| WordPress | [wordpress.md](wordpress.md) | 2-4 weeks | ⭐⭐⭐ Intermediate |
 
 ### By Resource Type
 
 **📹 Video Courses (Laracasts):**
+
 - [HTML & CSS Workshop](https://laracasts.com/series/html-and-css-workshop)
 - [Modern CSS for Backend Developers](https://laracasts.com/series/modern-css-for-backend-developers)
 - [JavaScript - The First Steps](https://laracasts.com/series/javascript-the-first-steps/episodes/1)
@@ -136,16 +146,19 @@ Master WordPress from basics to advanced development.
 - [MySQL Database Design](https://laracasts.com/series/mysql-database-design/episodes/1)
 
 **📖 Official Documentation:**
+
 - [MDN Web Docs](https://developer.mozilla.org/) - HTML, CSS, JavaScript
 - [PHP Documentation](https://www.php.net/docs.php)
 - [WordPress Developer Resources](https://developer.wordpress.org/)
 - [WP-CLI](https://wp-cli.org/)
 
 **🎮 Interactive Learning:**
+
 - [Flexbox Froggy](http://flexboxfroggy.com/) - CSS Flexbox game
 - [CSS Grid Garden](http://cssgridgarden.com/) - CSS Grid game
 
 **✅ Quizzes:**
+
 - [HTML & CSS Quiz](#)
 - [JavaScript Quiz](#)
 - [PHP & MySQL Quiz](#)

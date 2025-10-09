@@ -5,6 +5,7 @@ Complete setup guide for your development machine.
 ## Pre-boarding Checklist
 
 Before you start, ensure you have:
+
 - [ ] MacBook or development machine
 - [ ] GitHub account ([Sign up](https://github.com/join))
 - [ ] Slack invitation (ask your team lead)
@@ -16,21 +17,51 @@ Before you start, ensure you have:
 ### 1. Code Editor
 
 **VS Code** (Recommended)
-- Download: https://code.visualstudio.com/
+
+- Download: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 - Lightweight, fast, excellent extensions
 - Great for JavaScript, PHP, HTML, CSS
 
 **Recommended Extensions:**
-- PHP Debug
-- ESLint
-- Prettier
-- GitLens
-- WordPress Snippets
 
+##### PHP Development
+- **[PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)** (`xdebug.php-debug`) - Debug PHP code with Xdebug
+- **[PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)** (`bmewburn.vscode-intelephense-client`) - PHP language support
+- **[PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)** (`neilbrayfield.php-docblocker`) - Generate PHP docblocks
+- **[PHP Sniffer](https://marketplace.visualstudio.com/items?itemName=wongjn.php-sniffer)** (`wongjn.php-sniffer`) - PHP code sniffer integration
+- **[PHPUnit](https://marketplace.visualstudio.com/items?itemName=recca0120.vscode-phpunit)** (`recca0120.vscode-phpunit`) - PHPUnit test runner
+
+##### WordPress Development
+- **[WordPress Hooks IntelliSense](https://marketplace.visualstudio.com/items?itemName=johnbillion.vscode-wordpress-hooks)** (`johnbillion.vscode-wordpress-hooks`) - WordPress hooks autocomplete
+- **[WordPress Toolbox](https://marketplace.visualstudio.com/items?itemName=wordpresstoolbox.wordpress-toolbox)** (`wordpresstoolbox.wordpress-toolbox`) - WordPress development tools
+- **[WooCommerce Snippets](https://marketplace.visualstudio.com/items?itemName=claudiosanches.woocommerce)** (`claudiosanches.woocommerce`) - WooCommerce code snippets
+
+##### JavaScript/Frontend
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** (`dbaeumer.vscode-eslint`) - JavaScript linting
+- **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** (`esbenp.prettier-vscode`) - Code formatter
+- **[Prettier ESLint](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint)** (`rvest.vs-code-prettier-eslint`) - Prettier + ESLint integration
+- **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)** (`bradlc.vscode-tailwindcss`) - Tailwind CSS support
+- **[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)** (`formulahendry.auto-close-tag`) - Auto close HTML/XML tags
+- **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)** (`formulahendry.auto-rename-tag`) - Auto rename paired tags
+
+
+##### Testing & Debugging
+- **[Playwright Test](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)** (`ms-playwright.playwright`) - End-to-end testing
+
+##### Utilities
+- **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)** (`streetsidesoftware.code-spell-checker`) - Spell checking
+- **[Markdown Mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)** (`bierner.markdown-mermaid`) - Mermaid diagrams in markdown
+- **[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)** (`redhat.vscode-yaml`) - YAML language support
+- **[Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)** (`ms-vsliveshare.vsliveshare`) - Real-time collaboration
+
+**Installation:** Open VS Code, press `Cmd+Shift+X` (Mac) or `Ctrl+Shift+X` (Windows), search for extension names, and click Install.
+
+> Also checkout [Visual Studio Code Editor for WordPress development](https://chandra.dev/visual-studio-code-editor-for-wordpress-development/)
 ### 2. PHP Development
 
 **Laravel Herd** (All-in-one PHP environment)
-- Download: https://herd.laravel.com/
+
+- Download: [https://herd.laravel.com/](https://herd.laravel.com/)
 - Includes PHP, Nginx, dnsmasq
 - Easy local site management
 - Perfect for WordPress development
@@ -41,7 +72,8 @@ php --version
 ```
 
 **Composer** (PHP Package Manager)
-- Download: https://getcomposer.org/
+
+- Download: [https://getcomposer.org/](https://getcomposer.org/)
 - Required for modern PHP development
 
 ```bash
@@ -51,14 +83,16 @@ composer --version
 ### 3. Database
 
 **MySQL or MariaDB**
-- MySQL: https://dev.mysql.com/downloads/mysql/
-- MariaDB: https://mariadb.org/download/
+
+- MySQL: [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
+- MariaDB: [https://mariadb.org/download/](https://mariadb.org/download/)
 
 **Database Management Tools** (choose one):
-- **PHPMyAdmin** - Web-based, included with Herd
-- **TablePlus** - https://tableplus.com/ (Recommended for Mac)
-- **MySQL Workbench** - https://dev.mysql.com/downloads/workbench/
-- **Sequel Ace** - https://sequel-ace.com/ (Mac only, free)
+
+- **PHPMyAdmin** - [https://www.phpmyadmin.net/](https://www.phpmyadmin.net/) Web-based, included with Herd
+- **TablePlus** - [https://tableplus.com/](https://tableplus.com/) (Recommended for Mac)
+- **MySQL Workbench** - [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
+- **Sequel Ace** - [https://sequel-ace.com/](https://sequel-ace.com/) (Mac only, free)
 
 ```bash
 # Verify installation:
@@ -68,12 +102,13 @@ mysql --version
 ### 4. JavaScript/Node.js
 
 **Node.js** - JavaScript runtime
-- Download: https://nodejs.org/ (LTS version)
+
+- Download: [https://nodejs.org/](https://nodejs.org/) (LTS version)
 
 **npm** - Comes with Node.js
 
 **nvm** (Node Version Manager) - Manage multiple Node versions
-- Install: https://github.com/nvm-sh/nvm
+- Install: [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 
 ```bash
 # Verify installations:
@@ -90,7 +125,8 @@ nvm list             # List installed versions
 ### 5. Version Control
 
 **Git** - Already installed on Mac, or:
-- Download: https://git-scm.com/downloads
+
+- Download: [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 ```bash
 git --version
@@ -101,8 +137,9 @@ git config --global user.email "your.email@example.com"
 ```
 
 **Oh My Zsh** (Optional but recommended)
+
 - Enhances terminal experience
-- Install: https://ohmyz.sh/
+- Install: [https://ohmyz.sh/](https://ohmyz.sh/)
 
 ```bash
 # Install Oh My Zsh:
@@ -141,10 +178,11 @@ Follow this order for smoothest setup:
 ## 🎓 Next Steps
 
 After setup is complete:
+
 1. See [debuging.md](../debuging.md) for debugging configuration
-2. Start learning [HTML & CSS](HtmlCss.md)
-3. Then move to [JavaScript](JavaScript.md)
-4. Finally learn [PHP & MySQL](PhpMysql.md)
+2. Start learning [HTML & CSS](html-css.md)
+3. Then move to [JavaScript](javascript.md)
+4. Finally learn [PHP & MySQL](php-mysql.md)
 
 ## Troubleshooting
 
@@ -157,11 +195,13 @@ export PATH="$HOME/.config/herd/bin:$PATH"
 ```
 
 **MySQL connection issues:**
+
 - Check if MySQL service is running
 - Verify credentials (default: root / no password)
 - Check port (default: 3306)
 
 **Node/npm permission errors:**
+
 - Use nvm instead of system Node.js
 - Never use `sudo` with npm
 
@@ -175,4 +215,4 @@ export PATH="$HOME/.config/herd/bin:$PATH"
 ---
 
 **Setup Time:** 1-2 hours  
-**Next:** [HTML & CSS](HtmlCss.md)
+**Next:** [HTML & CSS](html-css.md)

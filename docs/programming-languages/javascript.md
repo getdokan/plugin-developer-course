@@ -22,6 +22,7 @@ Master modern JavaScript for interactive web applications.
 ## Required Tools Setup
 
 Before coding, install these tools:
+
 - **Node.js** - JavaScript runtime ([Download](https://nodejs.org/))
 - **npm** - Package manager (comes with Node.js)
 - **nvm** - Node Version Manager ([Install Guide](https://github.com/nvm-sh/nvm))

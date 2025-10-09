@@ -14,6 +14,7 @@ Updated programming language guides to be more concise, easy to follow, and inte
 All programming language files now follow a consistent, easy-to-scan format:
 
 **New Structure:**
+
 - 🎯 **Quick Start** section with beginner-friendly resources
 - 📚 **Core Learning** resources organized by topic
 - 🛠️ **Required Tools Setup** with verification commands
@@ -24,6 +25,7 @@ All programming language files now follow a consistent, easy-to-scan format:
 ### 2. **Enhanced HTML & CSS Guide** 🎨
 
 **Additions:**
+
 - Added [Laracasts courses](https://laracasts.com):
   - HTML & CSS Workshop
   - Modern CSS for Backend Developers
@@ -33,13 +35,14 @@ All programming language files now follow a consistent, easy-to-scan format:
 - Added emojis for better visual scanning
 - More concise resource descriptions
 
-**File:** `programming-languages/HtmlCss.md`
+**File:** `programming-languages/html-css.md`
 
 ---
 
 ### 3. **Enhanced JavaScript Guide** ⚡
 
 **Additions:**
+
 - Added [Laracasts: JavaScript - The First Steps](https://laracasts.com/series/javascript-the-first-steps/episodes/1)
 - Added **Required Tools Setup** section:
   - Node.js installation
@@ -49,13 +52,14 @@ All programming language files now follow a consistent, easy-to-scan format:
 - Added more deep dive topics (Hoisting, Promises)
 - Better formatting with emojis and visual hierarchy
 
-**File:** `programming-languages/JavaScript.md`
+**File:** `programming-languages/javascript.md`
 
 ---
 
 ### 4. **Enhanced PHP & MySQL Guide** 🐘
 
 **Additions:**
+
 - Added [Laracasts video courses](https://laracasts.com):
   - PHP for Beginners (2023 Edition)
   - OOP Principles in PHP (2024 Edition)
@@ -69,13 +73,14 @@ All programming language files now follow a consistent, easy-to-scan format:
 - Improved practice problems with collapsible hints
 - Added more deep dive topics (Autoloading, Error Handling)
 
-**File:** `programming-languages/PhpMysql.md`
+**File:** `programming-languages/php-mysql.md`
 
 ---
 
 ### 5. **Completely Rewritten Development Environment Guide** ⚙️
 
 **New Content:**
+
 - **Pre-boarding Checklist** (MacBook, GitHub, Slack access)
 - **VS Code setup** with recommended extensions
 - **Laravel Herd** detailed setup
@@ -143,6 +148,7 @@ All programming language files now follow a consistent, easy-to-scan format:
 - Custom integrations
 
 **Also Includes:**
+
 - Development workflow
 - Project structure
 - Plugin header template
@@ -152,7 +158,7 @@ All programming language files now follow a consistent, easy-to-scan format:
 - Learning projects (beginner to advanced)
 - Developer checklist
 
-**File:** `programming-languages/WordPress.md` (NEW)  
+**File:** `programming-languages/wordpress.md` (NEW)  
 **Lines:** 467 lines of comprehensive content
 
 ---
@@ -162,6 +168,7 @@ All programming language files now follow a consistent, easy-to-scan format:
 **Created comprehensive README for Programming Languages directory:**
 
 **Sections:**
+
 - **Learning Path** - Step-by-step guide (1 → 5)
 - **Quick Reference Table** - By technology, time, difficulty
 - **Resource Directory** - Videos, docs, games, quizzes
@@ -179,11 +186,11 @@ All programming language files now follow a consistent, easy-to-scan format:
 
 | File | Before | After | Change |
 |------|--------|-------|--------|
-| HtmlCss.md | 74 lines | 81 lines | ✅ Improved |
-| JavaScript.md | 71 lines | 92 lines | ✅ Improved |
-| PhpMysql.md | 80 lines | 115 lines | ✅ Improved |
+| html-css.md | 74 lines | 81 lines | ✅ Improved |
+| javascript.md | 71 lines | 92 lines | ✅ Improved |
+| php-mysql.md | 80 lines | 115 lines | ✅ Improved |
 | dev-environment.md | 7 lines | 178 lines | 🚀 Completely rewritten |
-| WordPress.md | - | 467 lines | ✨ NEW |
+| wordpress.md | - | 467 lines | ✨ NEW |
 | README.md | - | 207 lines | ✨ NEW |
 
 **Total Addition:** ~1,000 lines of quality content!
@@ -356,11 +363,11 @@ Ready for Production!
 
 ## Files Modified
 
-1. `programming-languages/HtmlCss.md` - Enhanced
-2. `programming-languages/JavaScript.md` - Enhanced
-3. `programming-languages/PhpMysql.md` - Enhanced
+1. `programming-languages/html-css.md` - Enhanced
+2. `programming-languages/javascript.md` - Enhanced
+3. `programming-languages/php-mysql.md` - Enhanced
 4. `programming-languages/dev-environment.md` - Completely rewritten
-5. `programming-languages/WordPress.md` - **NEW**
+5. `programming-languages/wordpress.md` - **NEW**
 6. `programming-languages/README.md` - **NEW**
 7. `CHANGELOG.md` - **NEW** (this file)
 
@@ -386,6 +393,7 @@ Potential additions for future updates:
 ## Credits
 
 **Resources Integrated From:**
+
 - Industry-standard web development practices
 - [mrabbani's Developer Onboarding Gist](https://gist.github.com/mrabbani/359db02ea33151ead77bb88eda4ec925)
 - [Laracasts](https://laracasts.com/)

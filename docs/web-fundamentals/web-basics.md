@@ -22,7 +22,7 @@ Understanding how the web works is essential for every developer. This guide cov
 │         │    HTTP Request  │         │
 │ Browser │ ──────────────>  │  Server │
 │ (Client)│                  │         │
-│         │ <────────────── │         │
+│         │ <──────────────  │         │
 └─────────┘   HTTP Response  └─────────┘
 ```
 
@@ -155,6 +155,7 @@ host -t mx example.com
 ### DNS Propagation
 
 When you change DNS records, it takes time to propagate (usually 24-48 hours)
+
 - TTL (Time To Live) determines cache duration
 - Lower TTL = faster updates, more queries
 - Higher TTL = slower updates, better performance
@@ -175,6 +176,7 @@ Retrieve data from server
 GET /api/users HTTP/1.1
 Host: example.com
 ```
+
 - Safe (doesn't modify data)
 - Idempotent (same result every time)
 - Can be cached
@@ -189,6 +191,7 @@ Content-Type: application/json
 
 {"name": "John", "email": "john@example.com"}
 ```
+
 - Not safe (modifies data)
 - Not idempotent
 - Not cached by default
@@ -203,6 +206,7 @@ Content-Type: application/json
 
 {"name": "John Updated", "email": "john@example.com"}
 ```
+
 - Not safe
 - Idempotent
 - Replaces entire resource
@@ -216,6 +220,7 @@ Content-Type: application/json
 
 {"name": "John Updated"}
 ```
+
 - Not safe
 - Not always idempotent
 - Updates specific fields
@@ -403,12 +408,14 @@ server {
 ### Virtual Hosts
 
 Run multiple websites on single server
+
 - Name-based: Multiple domains on same IP
 - IP-based: Different IP for each domain
 
 ### Reverse Proxy
 
 Server sits between clients and backend servers
+
 - Load balancing
 - Caching
 - SSL termination
@@ -505,11 +512,13 @@ CSS → Tree structure showing which styles apply to which elements
 ### Render Blocking
 
 **CSS** blocks rendering:
+
 - All CSS is render-blocking
 - Minimize and inline critical CSS
 - Load non-critical CSS asynchronously
 
 **JavaScript** blocks parsing:
+
 - Parser stops when it encounters `<script>`
 - Use `async` or `defer` attributes
 - Place scripts at end of body
@@ -581,18 +590,21 @@ Last-Modified: Thu, 01 Oct 2025 12:00:00 GMT
 
 #### SMTP (Simple Mail Transfer Protocol)
 **Sending** emails
+
 - Port 25 (unencrypted)
 - Port 587 (TLS)
 - Port 465 (SSL)
 
 #### POP3 (Post Office Protocol v3)
 **Receiving** emails (download)
+
 - Port 110 (unencrypted)
 - Port 995 (SSL)
 - Downloads and deletes from server
 
 #### IMAP (Internet Message Access Protocol)
 **Receiving** emails (sync)
+
 - Port 143 (unencrypted)
 - Port 993 (SSL)
 - Keeps emails on server

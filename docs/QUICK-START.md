@@ -7,6 +7,7 @@
 ## TL;DR (Too Long; Didn't Read)
 
 You're about to complete a **6-week onboarding program** that will teach you:
+
 - Programming (HTML, CSS, JavaScript, PHP, MySQL)
 - Command-line skills
 - How the web works
@@ -80,6 +81,7 @@ Curated learning resources and external tutorials in one place.
 **Goal:** Set up your development environment
 
 **You'll do:**
+
 - Meet the team
 - Install software (Laravel Herd, MySQL, Node.js, Git)
 - Configure your IDE
@@ -93,6 +95,7 @@ Curated learning resources and external tutorials in one place.
 **Goal:** Master programming fundamentals
 
 **You'll learn:**
+
 - **Day 1-2:** HTML & CSS
 - **Day 3-4:** JavaScript
 - **Day 5:** PHP & MySQL
@@ -105,6 +108,7 @@ Curated learning resources and external tutorials in one place.
 **Goal:** Become comfortable with command-line
 
 **You'll learn:**
+
 - Navigate file systems
 - Manage processes
 - Write shell scripts
@@ -118,6 +122,7 @@ Curated learning resources and external tutorials in one place.
 **Goal:** Know how websites work
 
 **You'll learn:**
+
 - How browsers work
 - DNS and HTTP/HTTPS
 - Web servers
@@ -131,6 +136,7 @@ Curated learning resources and external tutorials in one place.
 **Goal:** Create a responsive website
 
 **You'll build:**
+
 - Mobile-friendly design
 - Navigation and forms
 - Interactive features
@@ -144,6 +150,7 @@ Curated learning resources and external tutorials in one place.
 **Goal:** Create a database-driven application
 
 **You'll build:**
+
 - User authentication
 - CRUD operations
 - Form validation
@@ -190,6 +197,7 @@ See [programming-languages/dev-environment.md](Programming%20Languages/dev-envir
 
 ### Weekly Quizzes
 Test your knowledge after each section:
+
 - ✅ HTML & CSS Quiz
 - ✅ JavaScript Quiz
 - ✅ PHP & MySQL Quiz
@@ -198,6 +206,7 @@ Test your knowledge after each section:
 
 ### Final Projects
 Two projects to demonstrate your skills:
+
 1. **Responsive Website** (Week 5)
 2. **PHP/MySQL Application** (Week 6)
 
@@ -231,6 +240,7 @@ Your mentor will review your code and provide feedback. This is how you'll impro
 
 ### The 30-Minute Rule
 Try to solve it yourself for 30 minutes first:
+
 1. **Read the error** - What does it say?
 2. **Google it** - Someone has probably had this problem
 3. **Check documentation** - Official docs are your friend
@@ -251,6 +261,7 @@ Try to solve it yourself for 30 minutes first:
 **Contact:** _________________
 
 Your mentor is here to:
+
 - Answer questions
 - Review your code
 - Guide your learning
@@ -261,6 +272,7 @@ Your mentor is here to:
 **Contact:** _________________
 
 Your team lead can help with:
+
 - Project assignments
 - Career guidance
 - Technical direction
@@ -270,6 +282,7 @@ Your team lead can help with:
 **Contact:** _________________
 
 Your buddy is another learner or junior dev who:
+
 - Studies with you
 - Shares the journey
 - Provides peer support
@@ -314,7 +327,7 @@ Your buddy is another learner or junior dev who:
 ## 🎉 What Happens After?
 
 ### Upon Completion:
-- 🏆 Certificate of completion
+<!-- - 🏆 Certificate of completion -->
 - 🤝 Join team projects
 - 👥 Start contributing to production code
 - 📈 Continue learning advanced topics
@@ -422,6 +435,7 @@ Welcome to your development journey!
 The next 6 weeks will be challenging but incredibly rewarding. You'll build skills that will serve you for your entire career. 
 
 Remember:
+
 - **Be patient** with yourself
 - **Stay curious**
 - **Ask questions**

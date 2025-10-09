@@ -32,16 +32,19 @@ This comprehensive **6-week study plan** focuses on **Block Themes** (Full Site 
 ### Day 1-2: Introduction to Block Themes & FSE
 
 **📖 Reading:**
+
 - [What are Block Themes?](https://developer.wordpress.org/themes/block-themes/)
 - [Block Theme Overview](https://developer.wordpress.org/themes/block-themes/block-theme-overview/)
 - [Getting Started with FSE](https://developer.wordpress.org/themes/getting-started/)
 - [Block Theme Requirements](https://developer.wordpress.org/themes/block-themes/block-theme-setup/)
 
 **💻 Setup:**
+
 - Set up local development environment with WordPress 6.0+
 - Install WordPress with block theme support
 
 **✏️ Practice:**
+
 - Explore existing block themes (Twenty Twenty-Four, Twenty Twenty-Three)
 - Navigate the Site Editor interface
 - Understand the difference between block themes and classic themes
@@ -51,6 +54,7 @@ This comprehensive **6-week study plan** focuses on **Block Themes** (Full Site 
 ### Day 3-4: theme.json - The Core Configuration
 
 **📖 Reading:**
+
 - [theme.json Overview](https://developer.wordpress.org/themes/advanced-topics/theme-json/)
 - [Global Settings](https://developer.wordpress.org/themes/advanced-topics/theme-json/#settings)
 - [Global Styles](https://developer.wordpress.org/themes/advanced-topics/theme-json/#styles)
@@ -59,6 +63,7 @@ This comprehensive **6-week study plan** focuses on **Block Themes** (Full Site 
 - [Spacing & Layout](https://developer.wordpress.org/block-editor/how-to-guides/themes/theme-json/#spacing)
 
 **✏️ Practice:**
+
 - Create a basic theme.json with custom colors
 - Add custom font sizes and font families
 - Configure spacing and layout settings
@@ -69,6 +74,7 @@ This comprehensive **6-week study plan** focuses on **Block Themes** (Full Site 
 ### Day 5: Minimum Block Theme Structure
 
 **📖 Reading:**
+
 - [Block Theme Setup](https://developer.wordpress.org/themes/block-themes/block-theme-setup/)
 
 **📁 Required Files:**
@@ -82,6 +88,7 @@ my-theme/
 ```
 
 **✏️ Practice:**
+
 - Create your first minimal block theme from scratch
 - Add proper style.css header information
 - Create a basic theme.json
@@ -94,6 +101,7 @@ my-theme/
 **Project:** Create a "Minimal Blog" block theme
 
 **Requirements:**
+
 - ✅ Proper style.css header with theme information
 - ✅ Complete theme.json with:
   - Custom color palette (5+ colors)
@@ -116,16 +124,19 @@ my-theme/
 ### Day 1-2: Introduction to Templates
 
 **📖 Reading:**
+
 - [Introduction to Templates](https://developer.wordpress.org/themes/templates/introduction-to-templates/)
 - [Templates Overview](https://developer.wordpress.org/themes/templates/)
 - [Templates Documentation](https://developer.wordpress.org/themes/templates/templates/)
 
 **📝 Topics:**
+
 - Understanding the template system
 - How templates work in block themes
 - Template file structure and naming conventions
 
 **📁 Core Templates:**
+
 - `index.html` (required - fallback for all views)
 - `home.html` (blog homepage)
 - `single.html` (single post)
@@ -135,6 +146,7 @@ my-theme/
 - `404.html` (not found page)
 
 **✏️ Practice:**
+
 - Create all core templates using HTML and block markup
 - Test each template by viewing different page types
 - Understand when each template is used
@@ -144,15 +156,18 @@ my-theme/
 ### Day 3: Template Hierarchy
 
 **📖 Reading:**
+
 - [Template Hierarchy](https://developer.wordpress.org/themes/templates/template-hierarchy/)
 
 **📝 Topics:**
+
 - How WordPress chooses which template to use
 - Template hierarchy for block themes vs classic themes
 - Fallback templates
 - Template specificity
 
 **🎯 Specific Templates:**
+
 - Custom post types: `single-{post-type}.html`
 - Taxonomies: `taxonomy-{taxonomy}.html`, `category-{slug}.html`
 - Authors: `author-{nicename}.html`
@@ -160,6 +175,7 @@ my-theme/
 - Custom templates: templates with `Template Name` in comments
 
 **✏️ Practice:**
+
 - Create a complete template hierarchy for a blog
 - Test template hierarchy by creating different content types
 - Create custom templates for specific categories
@@ -169,11 +185,13 @@ my-theme/
 ### Day 4-5: Template Parts
 
 **📖 Reading:**
+
 - [Template Parts](https://developer.wordpress.org/themes/templates/template-parts/)
 - [Creating Template Parts](https://developer.wordpress.org/themes/global-settings-and-styles/template-parts/)
 - [Template Part Block](https://developer.wordpress.org/block-editor/reference-guides/core-blocks/#template-part)
 
 **📁 Common Template Parts:**
+
 - `parts/header.html` - Site header with logo and navigation
 - `parts/footer.html` - Site footer with copyright and links
 - `parts/sidebar.html` - Sidebar content
@@ -181,12 +199,14 @@ my-theme/
 - `parts/comments.html` - Comments section
 
 **📝 Topics:**
+
 - Creating reusable template parts
 - Using template parts in templates
 - Creating dynamic template parts
 - Template part areas (header, footer, general)
 
 **✏️ Practice:**
+
 - Create reusable template parts
 - Use template parts across multiple templates
 - Create variations of header/footer for different pages
@@ -196,10 +216,12 @@ my-theme/
 ### Day 6-7: Block Markup & Weekend Project
 
 **📖 Day 6 Morning Reading:**
+
 - [Block Markup](https://developer.wordpress.org/themes/templates/templates/#block-markup)
 - [Core Blocks Reference](https://developer.wordpress.org/block-editor/reference-guides/core-blocks/)
 
 **🧱 Essential Structural Blocks:**
+
 - **Site Blocks:** Site Title, Site Logo, Site Tagline
 - **Navigation:** Navigation Block
 - **Query Blocks:** Query Loop, Post Template
@@ -208,6 +230,7 @@ my-theme/
 - **Design Blocks:** Cover, Spacer, Separator
 
 **✏️ Practice:**
+
 - Build complex layouts using only core blocks
 - Understand block attributes and customization
 - Practice nesting blocks for complex structures
@@ -219,6 +242,7 @@ my-theme/
 **Project:** Create a "Portfolio Block Theme"
 
 **Requirements:**
+
 - ✅ Complete template hierarchy:
   - index.html
   - home.html
@@ -248,18 +272,21 @@ my-theme/
 ### Day 1-2: Block Patterns
 
 **📖 Reading:**
+
 - [Block Patterns Overview](https://developer.wordpress.org/themes/features/block-patterns/)
 - [Creating Block Patterns](https://developer.wordpress.org/block-editor/reference-guides/block-api/block-patterns/)
 - [Registering Patterns](https://developer.wordpress.org/themes/features/block-patterns/#registering-patterns)
 - [Pattern Directory](https://wordpress.org/patterns/)
 
 **📝 Topics:**
+
 - What are block patterns
 - Pattern categories and organization
 - Creating patterns in PHP
 - Pattern best practices
 
 **🎨 Common Pattern Types:**
+
 - Hero sections
 - Feature sections
 - Testimonials
@@ -270,6 +297,7 @@ my-theme/
 - Team member grids
 
 **✏️ Practice:**
+
 - Create 5+ block patterns covering different use cases
 - Register custom pattern categories
 - Test patterns in the Site Editor
@@ -280,6 +308,7 @@ my-theme/
 ### Day 3-4: Style Variations
 
 **📖 Reading:**
+
 - [Style Variations](https://developer.wordpress.org/themes/advanced-topics/theme-json/#style-variations)
 - [Creating Style Variations](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/#styles)
 
@@ -294,6 +323,7 @@ my-theme/
 ```
 
 **📝 Topics:**
+
 - Creating style variations
 - Color scheme variations
 - Typography variations
@@ -301,6 +331,7 @@ my-theme/
 - Testing style variations
 
 **✏️ Practice:**
+
 - Create 3 style variations:
   - Light theme (default)
   - Dark theme
@@ -312,16 +343,19 @@ my-theme/
 ### Day 5: Custom Block Styles
 
 **📖 Reading:**
+
 - [Block Styles](https://developer.wordpress.org/block-editor/reference-guides/block-api/block-styles/)
 - [Registering Block Styles](https://developer.wordpress.org/reference/functions/register_block_style/)
 
 **📝 Topics:**
+
 - Creating custom block styles
 - Registering block styles via functions.php
 - Adding custom CSS for block variations
 - Block style best practices
 
 **✏️ Practice:**
+
 - Create custom styles for core blocks
 - Register block styles programmatically
 - Add custom CSS for block style variations
@@ -333,6 +367,7 @@ my-theme/
 **Project:** Create a "Business Block Theme"
 
 **Requirements:**
+
 - ✅ **10+ Block Patterns:**
   - Header variations (3)
   - Hero sections (2)
@@ -366,6 +401,7 @@ my-theme/
 ### Day 1-2: Advanced theme.json Features
 
 **📖 Reading:**
+
 - [theme.json Schema](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/)
 - [Custom CSS Properties](https://developer.wordpress.org/themes/advanced-topics/theme-json/#custom-css-properties)
 - [appearanceTools](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/#appearancetools)
@@ -374,6 +410,7 @@ my-theme/
 - [Responsive Spacing](https://make.wordpress.org/core/2023/03/30/fluid-font-sizes-in-wordpress-6-2/)
 
 **📝 Advanced Topics:**
+
 - Fluid typography system
 - Responsive spacing scales
 - Custom CSS properties in theme.json
@@ -381,6 +418,7 @@ my-theme/
 - Appearance tools
 
 **✏️ Practice:**
+
 - Implement fluid typography with min/max values
 - Create responsive spacing scales
 - Use custom CSS properties
@@ -391,9 +429,11 @@ my-theme/
 ### Day 3-4: Custom Block Settings Per Block
 
 **📖 Reading:**
+
 - [Block-specific Settings](https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/#blocks)
 
 **📝 Topics:**
+
 - Customizing individual blocks via theme.json
 - Enabling/disabling features per block
 - Block-specific color palettes
@@ -415,6 +455,7 @@ my-theme/
 ```
 
 **✏️ Practice:**
+
 - Configure different settings for different blocks
 - Disable specific features for certain blocks
 - Create block-specific color palettes
@@ -424,9 +465,11 @@ my-theme/
 ### Day 5: Functions.php in Block Themes
 
 **📖 Reading:**
+
 - [functions.php for Block Themes](https://developer.wordpress.org/themes/basics/theme-functions/)
 
 **📝 Topics:**
+
 - Theme support declarations
 - Enqueuing editor styles
 - Custom fonts registration
@@ -450,6 +493,7 @@ register_block_style();
 ```
 
 **✏️ Practice:**
+
 - Add essential functions.php configurations
 - Register custom pattern categories
 - Enqueue custom fonts
@@ -462,6 +506,7 @@ register_block_style();
 **Project:** Create a "Magazine Block Theme"
 
 **Requirements:**
+
 - ✅ **Advanced theme.json:**
   - Fluid typography system
   - Responsive spacing scales
@@ -494,10 +539,12 @@ register_block_style();
 ### Day 1-2: Query Loop Block Mastery
 
 **📖 Reading:**
+
 - [Query Loop Block](https://developer.wordpress.org/block-editor/reference-guides/core-blocks/#query)
 - [Post Template Block](https://developer.wordpress.org/block-editor/reference-guides/core-blocks/#post-template)
 
 **📝 Topics:**
+
 - Understanding the Query Loop block
 - Custom query parameters
 - Pagination patterns
@@ -506,6 +553,7 @@ register_block_style();
 - Filtering by custom fields
 
 **🔍 Query Parameters:**
+
 - Post type
 - Number of posts
 - Order by
@@ -515,6 +563,7 @@ register_block_style();
 - Sticky posts
 
 **✏️ Practice:**
+
 - Create complex archive layouts with Query Loop
 - Build featured posts section
 - Create category-specific query loops
@@ -526,10 +575,12 @@ register_block_style();
 ### Day 3: Navigation Block & Menus
 
 **📖 Reading:**
+
 - [Navigation Block](https://developer.wordpress.org/block-editor/reference-guides/core-blocks/#navigation)
 - [Creating Menus in FSE](https://developer.wordpress.org/themes/block-themes/navigation-block/)
 
 **📝 Topics:**
+
 - Navigation block features
 - Creating responsive navigation
 - Building mega menus with patterns
@@ -538,6 +589,7 @@ register_block_style();
 - Mobile menu patterns
 
 **🧭 Navigation Types:**
+
 - Primary navigation
 - Footer navigation
 - Social links
@@ -545,6 +597,7 @@ register_block_style();
 - Pagination
 
 **✏️ Practice:**
+
 - Build responsive header with navigation
 - Create mobile menu pattern
 - Build mega menu with patterns
@@ -555,9 +608,11 @@ register_block_style();
 ### Day 4-5: Dynamic Blocks & Custom Post Types
 
 **📖 Reading:**
+
 - [Custom Post Type Support](https://developer.wordpress.org/themes/basics/post-types/)
 
 **📝 Topics:**
+
 - Creating templates for custom post types
 - Custom archive pages
 - Custom taxonomies in block themes
@@ -565,6 +620,7 @@ register_block_style();
 - Single custom post type templates
 
 **⚙️ Implementation:**
+
 ```php
 // Register custom post type
 register_post_type('portfolio');
@@ -574,11 +630,13 @@ register_taxonomy('project-type', 'portfolio');
 ```
 
 **📁 Template Files:**
+
 - `single-portfolio.html`
 - `archive-portfolio.html`
 - `taxonomy-project-type.html`
 
 **✏️ Practice:**
+
 - Create templates and patterns for portfolio custom post type
 - Build custom archive with Query Loop
 - Create custom taxonomy templates
@@ -591,6 +649,7 @@ register_taxonomy('project-type', 'portfolio');
 **Project:** Create an "E-Commerce Block Theme"
 
 **Requirements:**
+
 - ✅ **WooCommerce Support:**
   - theme.json with WooCommerce settings
   - functions.php with WooCommerce declarations
@@ -621,9 +680,11 @@ register_taxonomy('project-type', 'portfolio');
 ### Day 1-2: Performance Optimization
 
 **📖 Reading:**
+
 - [Performance Best Practices](https://developer.wordpress.org/themes/advanced-topics/performance-best-practices/)
 
 **📝 Topics:**
+
 - Optimizing theme.json
 - Reducing CSS output
 - Font loading strategies
@@ -633,6 +694,7 @@ register_taxonomy('project-type', 'portfolio');
 - Caching strategies
 
 **⚡ Performance Checklist:**
+
 - ✅ Optimize CSS delivery
 - ✅ Minimize JavaScript
 - ✅ Optimize web fonts
@@ -642,6 +704,7 @@ register_taxonomy('project-type', 'portfolio');
 - ✅ Test Core Web Vitals
 
 **✏️ Practice:**
+
 - Audit theme performance with Lighthouse
 - Optimize font loading
 - Reduce CSS output
@@ -652,10 +715,12 @@ register_taxonomy('project-type', 'portfolio');
 ### Day 3: Accessibility in Block Themes
 
 **📖 Reading:**
+
 - [Accessibility](https://developer.wordpress.org/themes/functionality/accessibility/)
 - [ARIA Labels](https://make.wordpress.org/accessibility/handbook/)
 
 **📝 Topics:**
+
 - WCAG 2.1 AA compliance
 - Keyboard navigation
 - Screen reader compatibility
@@ -665,6 +730,7 @@ register_taxonomy('project-type', 'portfolio');
 - ARIA labels
 
 **♿ Accessibility Checklist:**
+
 - ✅ Proper heading hierarchy
 - ✅ Keyboard navigation
 - ✅ Color contrast (4.5:1 minimum)
@@ -675,6 +741,7 @@ register_taxonomy('project-type', 'portfolio');
 - ✅ Screen reader testing
 
 **✏️ Practice:**
+
 - Make theme fully accessibility-ready
 - Test with screen readers
 - Test keyboard navigation
@@ -686,9 +753,11 @@ register_taxonomy('project-type', 'portfolio');
 ### Day 4: Internationalization & Localization
 
 **📖 Reading:**
+
 - [Internationalization](https://developer.wordpress.org/themes/functionality/internationalization/)
 
 **📝 Topics:**
+
 - Translating theme.json strings
 - RTL (Right-to-Left) support
 - Translation-ready patterns
@@ -713,6 +782,7 @@ body.rtl {
 ```
 
 **✏️ Practice:**
+
 - Make theme fully translation-ready
 - Implement RTL support
 - Test with different languages
@@ -723,10 +793,12 @@ body.rtl {
 ### Day 5: Theme Testing & Debugging
 
 **📖 Reading:**
+
 - [Theme Unit Test](https://codex.wordpress.org/Theme_Unit_Test)
 - [Theme Check Plugin](https://wordpress.org/plugins/theme-check/)
 
 **📝 Topics:**
+
 - Theme unit testing
 - Testing across different content types
 - Browser testing
@@ -734,6 +806,7 @@ body.rtl {
 - Debugging techniques
 
 **🧪 Testing Checklist:**
+
 - ✅ Theme Check plugin passes
 - ✅ Theme Unit Test data displays correctly
 - ✅ All templates work properly
@@ -744,6 +817,7 @@ body.rtl {
 - ✅ i18n/RTL testing
 
 **✏️ Practice:**
+
 - Complete full theme testing checklist
 - Fix any issues found
 - Document known limitations
@@ -753,10 +827,12 @@ body.rtl {
 ### Day 6-7: Distribution & WordPress.org Submission
 
 **📖 Reading:**
+
 - [Theme Review Requirements](https://make.wordpress.org/themes/handbook/review/required/)
 - [Preparing Theme for Submission](https://developer.wordpress.org/themes/release/)
 
 **📝 Topics:**
+
 - Theme review guidelines
 - Creating theme screenshots
 - Writing theme documentation (readme.txt)
@@ -765,6 +841,7 @@ body.rtl {
 - Changelog maintenance
 
 **📦 Submission Requirements:**
+
 - ✅ Valid theme.json
 - ✅ Proper style.css header
 - ✅ Screenshot (1200x900px)
@@ -798,6 +875,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 ```
 
 **✏️ Practice:**
+
 - Prepare complete submission package
 - Write comprehensive readme.txt
 - Create screenshots
@@ -815,6 +893,7 @@ Create a complete, production-ready block theme that combines everything learned
 ### Project Option 1: Multi-Purpose Block Theme
 
 **Requirements:**
+
 - ✅ **20+ Block Patterns** covering all use cases:
   - Headers (3 variations)
   - Heroes (3 variations)
@@ -850,6 +929,7 @@ Create a complete, production-ready block theme that combines everything learned
 ### Project Option 2: Creative Agency Block Theme
 
 **Requirements:**
+
 - ✅ **Portfolio System:**
   - Custom post type for portfolio
   - Portfolio templates
@@ -879,6 +959,7 @@ Create a complete, production-ready block theme that combines everything learned
 ### Project Option 3: Blog & Content Creator Theme
 
 **Requirements:**
+
 - ✅ **Multiple Blog Layouts:**
   - Standard blog layout
   - Grid layout
@@ -954,6 +1035,7 @@ Create a complete, production-ready block theme that combines everything learned
 ### Classic Theme Basics
 
 **📖 Essential Reading:**
+
 - [Classic Theme Structure](https://developer.wordpress.org/themes/basics/organizing-theme-files/)
 - [Template Files (PHP)](https://developer.wordpress.org/themes/basics/template-files/)
 - [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
@@ -963,6 +1045,7 @@ Create a complete, production-ready block theme that combines everything learned
 ### Classic Theme Features
 
 **📖 Additional Topics:**
+
 - [Theme Customizer API](https://developer.wordpress.org/themes/customize-api/)
 - [Widgets](https://developer.wordpress.org/themes/functionality/widgets/)
 - [Sidebars](https://developer.wordpress.org/themes/functionality/sidebars/)

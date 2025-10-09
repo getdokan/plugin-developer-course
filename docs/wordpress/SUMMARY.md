@@ -183,7 +183,7 @@ The documentation has been integrated into the MkDocs navigation structure:
 
 ### View in MkDocs
 ```bash
-cd /Users/mahbub/Development/workspaces/fresher-onboarding
+cd /Users/mahbub/Development/workspaces/developer-onboarding-docs
 mkdocs serve
 ```
 
@@ -227,6 +227,7 @@ After completing this course, developers will be able to:
 ## Additional Resources
 
 Each module includes links to:
+
 - Official WordPress documentation
 - WordPress Codex
 - Community resources

@@ -6,7 +6,8 @@ This document summarizes the comprehensive onboarding materials created for weDe
 
 ## Overview
 
-A complete **6-week onboarding program** for fresher developers has been created, covering:
+A complete **6-week onboarding program** for developers has been created, covering:
+
 - Programming languages (HTML, CSS, JavaScript, PHP, MySQL)
 - Operating system basics
 - Web fundamentals
@@ -19,7 +20,7 @@ A complete **6-week onboarding program** for fresher developers has been created
 ## Repository Structure
 
 ```
-fresher-onboarding/
+developer-onboarding/
 │
 ├── 📘 README.md                          # Repository overview
 ├── 🚀 QUICK-START.md                     # Quick start guide (START HERE!)
@@ -31,9 +32,9 @@ fresher-onboarding/
 │
 ├── 💻 programming-languages/
 │   ├── dev-environment.md                # Setup instructions
-│   ├── HtmlCss.md                        # HTML & CSS resources
-│   ├── JavaScript.md                     # JavaScript resources
-│   └── PhpMysql.md                       # PHP & MySQL resources
+│   ├── html-css.md                        # HTML & CSS resources
+│   ├── javascript.md                     # JavaScript resources
+│   └── php-mysql.md                       # PHP & MySQL resources
 │
 ├── 🖥️ operating-system/
 │   └── os-fundamentals.md                # CLI, processes, scripting
@@ -52,6 +53,7 @@ fresher-onboarding/
 **Purpose:** Your first stop! Quick overview and motivation  
 **Who it's for:** New developers starting onboarding  
 **What's inside:**
+
 - TL;DR summary
 - 6-week journey map
 - Daily routine suggestions
@@ -66,6 +68,7 @@ fresher-onboarding/
 **Purpose:** The main comprehensive roadmap  
 **Who it's for:** Everyone going through onboarding  
 **What's inside:**
+
 - Week-by-week breakdown
 - Day-by-day tasks and objectives
 - Learning resources for each topic
@@ -77,6 +80,7 @@ fresher-onboarding/
 **Read this for:** Step-by-step instructions for the entire program
 
 **Structure:**
+
 - **Week 1:** Introduction & Setup
 - **Week 2:** Programming Languages Fundamentals
 - **Week 3:** Operating System Basics
@@ -90,6 +94,7 @@ fresher-onboarding/
 **Purpose:** Track your daily progress  
 **Who it's for:** Learners and mentors  
 **What's inside:**
+
 - Week-by-week checkboxes
 - Task completion tracking
 - Note-taking spaces
@@ -106,6 +111,7 @@ fresher-onboarding/
 **Purpose:** Curated learning resources and external courses  
 **Who it's for:** Anyone needing quick reference to learning materials  
 **What's inside:**
+
 - Learning resource links
 - External tutorial references
 - Course structure overview
@@ -120,6 +126,7 @@ fresher-onboarding/
 **Purpose:** Repository overview and navigation  
 **Who it's for:** Anyone first viewing the repository  
 **What's inside:**
+
 - Repository structure
 - Quick links to all documents
 - Getting started instructions
@@ -135,7 +142,8 @@ fresher-onboarding/
 
 #### Programming Languages Directory 💻
 
-##### **HtmlCss.md**
+##### **html-css.md**
+
 - HTML5 tutorials and references
 - CSS3 guides and best practices
 - Flexbox and Grid resources
@@ -144,7 +152,7 @@ fresher-onboarding/
 - Practice exercises
 - Quiz link
 
-##### **JavaScript.md**
+##### **javascript.md**
 - JavaScript fundamentals
 - ES6+ features
 - Clean code concepts
@@ -152,7 +160,7 @@ fresher-onboarding/
 - Exploration topics (closures, event loop)
 - Quiz link
 
-##### **PhpMysql.md**
+##### **php-mysql.md**
 - PHP 8 tutorials
 - Clean code PHP concepts
 - MySQL database tutorials
@@ -172,6 +180,7 @@ fresher-onboarding/
 
 ##### **os-fundamentals.md**
 **Comprehensive coverage of:**
+
 - **CLI Essentials**
   - Navigation commands
   - File operations
@@ -218,6 +227,7 @@ fresher-onboarding/
 
 ##### **web-basics.md**
 **Comprehensive coverage of:**
+
 - **How the Web Works**
   - Client-server architecture
   - Request-response cycle
@@ -464,6 +474,7 @@ This repository can be customized by:
 ## 📈 Success Metrics
 
 Track success using:
+
 - Quiz scores (target: 70%+)
 - Project completion
 - Code review feedback
@@ -528,6 +539,7 @@ This repository is immediately usable for:
 ## 📧 Feedback & Improvements
 
 To improve this onboarding program:
+
 1. Collect feedback from learners
 2. Track common pain points
 3. Monitor completion rates
@@ -540,6 +552,7 @@ To improve this onboarding program:
 ## Acknowledgments
 
 Based on:
+
 - Industry best practices
 - Clean code principles
 - Real-world development experience

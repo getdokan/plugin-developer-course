@@ -1,6 +1,6 @@
-# Fresher Developer Onboarding Program
+#  Developer Onboarding Program
 
-Welcome to the comprehensive onboarding program for fresher developers! This repository contains a structured, step-by-step guide to help new developers build a solid foundation in software engineering principles.
+Welcome to the comprehensive onboarding program for  developers! This repository contains a structured, step-by-step guide to help new developers build a solid foundation in software engineering principles.
 
 ## Program Overview
 
@@ -9,15 +9,15 @@ This onboarding program covers essential topics that every developer should mast
 ## Repository Structure
 
 ```
-fresher-onboarding/
+Developer-onboarding/
 ├── README.md                          # You are here
 ├── ONBOARDING-GUIDE.md               # Main comprehensive guide (START HERE!)
 ├── debuging.md                        # Debugging tools and configuration
 ├── programming-languages/             # Programming fundamentals
 │   ├── dev-environment.md            # Development environment setup
-│   ├── HtmlCss.md                    # HTML & CSS resources
-│   ├── JavaScript.md                 # JavaScript resources
-│   └── PhpMysql.md                   # PHP & MySQL resources
+│   ├── html-css.md                    # HTML & CSS resources
+│   ├── javascript.md                 # JavaScript resources
+│   └── php-mysql.md                   # PHP & MySQL resources
 ├── operating-system/          # OS fundamentals
 │   └── os-fundamentals.md            # CLI, processes, system monitoring
 └── web-fundamentals/                 # Web technologies
@@ -31,6 +31,7 @@ Start with **[ONBOARDING-GUIDE.md](ONBOARDING-GUIDE.md)** - This is your roadmap
 
 ### Step 2: Follow the Weekly Schedule
 The onboarding is structured as a 6-week program:
+
 - **Week 1**: Introduction & Development Environment Setup
 - **Week 2**: Programming Languages (HTML/CSS, JavaScript, PHP/MySQL)
 - **Week 3**: Operating System Basics
@@ -39,6 +40,7 @@ The onboarding is structured as a 6-week program:
 
 ### Step 3: Complete Exercises and Quizzes
 Each section includes:
+
 - ✅ Hands-on exercises
 - ✅ Practice problems
 - ✅ Quiz questions
@@ -52,9 +54,9 @@ Each section includes:
 - [Development Environment](programming-languages/dev-environment.md)
 
 ### Programming Languages
-- [HTML & CSS](programming-languages/HtmlCss.md)
-- [JavaScript](programming-languages/JavaScript.md)
-- [PHP & MySQL](programming-languages/PhpMysql.md)
+- [HTML & CSS](programming-languages/html-css.md)
+- [JavaScript](programming-languages/javascript.md)
+- [PHP & MySQL](programming-languages/php-mysql.md)
 
 ### Operating System
 - [OS Fundamentals](operating-system/os-fundamentals.md)

@@ -1,4 +1,4 @@
-# Fresher Developer Onboarding Guide
+# Developer Onboarding Guide
 
 Welcome to the developer onboarding program! This comprehensive guide will help you build a solid foundation in engineering principles, development environments, and web technologies.
 
@@ -46,7 +46,7 @@ Welcome to the developer onboarding program! This comprehensive guide will help 
 
 #### Tasks:
 - [ ] Create/configure GitHub/GitLab/Bitbucket account
-- [ ] Get access to project management tools (Jira, Trello, Asana, etc.)
+- [ ] Get access to project management tools (Github Project)
 - [ ] Set up company VPN if required
 - [ ] Access to documentation repositories
 - [ ] Join relevant team channels
@@ -113,7 +113,8 @@ git push origin feature/your-feature-name
 - [ ] Complete HTML & CSS Quiz
 
 #### Learning Resources:
-See [HtmlCss.md](Programming%20Languages/HtmlCss.md) for detailed resources including:
+See [html-css.md](Programming%20Languages/html-css.md) for detailed resources including:
+
 - MDN Web Docs tutorials
 - Flexbox and Grid guides
 - BEM methodology
@@ -147,7 +148,8 @@ Create a responsive three-column layout that stacks vertically on mobile devices
 - [ ] Complete JavaScript Quiz
 
 #### Learning Resources:
-See [JavaScript.md](Programming%20Languages/JavaScript.md) for:
+See [javascript.md](Programming%20Languages/javascript.md) for:
+
 - ES6 tutorials
 - Clean code concepts
 - ECMAScript history
@@ -181,7 +183,8 @@ See [JavaScript.md](Programming%20Languages/JavaScript.md) for:
 - [ ] Complete PHP Quiz
 
 #### Learning Resources:
-See [PhpMysql.md](Programming%20Languages/PhpMysql.md) for:
+See [php-mysql.md](Programming%20Languages/php-mysql.md) for:
+
 - PHP 8 tutorials
 - Clean code concepts for PHP
 - MySQL tutorials
@@ -603,6 +606,7 @@ dig +trace example.com
 
 ### Final Project
 Build a complete web application that demonstrates:
+
 - Full-stack development skills
 - Clean code practices
 - Security best practices

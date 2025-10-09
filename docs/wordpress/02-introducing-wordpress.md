@@ -6,6 +6,7 @@ Learn the fundamentals of WordPress, its architecture, and how to navigate and u
 
 WordPress is a free, open-source content management system (CMS) written in PHP and paired with a MySQL or MariaDB database. It was originally created as a blogging platform but has evolved into a versatile CMS that powers over 43% of all websites on the internet.
 
+> Checkout [WordPress Admin Dashboard Explained](https://www.youtube.com/watch?v=ugizvZtKAk0)
 ### Key Features
 
 - **Open Source** - Free to use and modify
@@ -22,6 +23,7 @@ WordPress is a free, open-source content management system (CMS) written in PHP 
 
 #### 1. WordPress Core
 The main WordPress files that provide the foundation:
+
 - **wp-admin/** - Administration interface
 - **wp-includes/** - Core libraries and functions
 - **wp-content/** - Themes, plugins, and uploads

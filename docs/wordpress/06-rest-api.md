@@ -274,6 +274,7 @@ fetch('/wp-json/wp/v2/posts/123', {
 ```
 
 **✏️ Practice:**
+
 - Create posts via API
 - Update existing posts
 - Delete posts

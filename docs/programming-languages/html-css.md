@@ -149,7 +149,7 @@ Understanding the difference between pseudo-classes and pseudo-elements is essen
 
 #### Pseudo-Classes Examples
 
-Pseudo-classes change styles based on dynamic states:
+[Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) change styles based on dynamic states:
 
 ```css
 /* User hovers over a button */
@@ -177,7 +177,7 @@ tr:nth-child(even) {
 
 #### Pseudo-Elements Examples
 
-Pseudo-elements let you style parts of an element or insert generated content:
+[Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) let you style parts of an element or insert generated content:
 
 ```css
 /* Add a bullet before each list item */

@@ -5,6 +5,7 @@ Learn WordPress coding standards, best practices, and conventions to write clean
 ## Why Coding Standards Matter
 
 Coding standards ensure:
+
 - **Consistency** - Code looks uniform across projects
 - **Readability** - Easier to understand and maintain
 - **Collaboration** - Team members can work together seamlessly

@@ -6,9 +6,9 @@ Master WordPress development from basics to advanced plugin development.
 
 Before starting WordPress, complete:
 
-- ✅ [HTML & CSS](HtmlCss.md)
-- ✅ [JavaScript](JavaScript.md)
-- ✅ [PHP & MySQL](PhpMysql.md)
+- ✅ [HTML & CSS](html-css.md)
+- ✅ [JavaScript](javascript.md)
+- ✅ [PHP & MySQL](php-mysql.md)
 - ✅ [Development Environment](dev-environment.md)
 
 ## Learning Path
@@ -460,5 +460,5 @@ Install these from [WordPress.org](https://wordpress.org/plugins/):
 
 - [Development Environment Setup](dev-environment.md)
 - [Debugging Configuration](../debuging.md)
-- [PHP & MySQL Guide](PhpMysql.md)
+- [PHP & MySQL Guide](php-mysql.md)
 
