@@ -172,7 +172,7 @@ This comprehensive 6-week study plan is based on the official [WordPress Plugin 
 
 #### Day 1-3: REST API
 - [REST API Overview](https://developer.wordpress.org/plugins/rest-api/)
-- [Routes & Endpoints](https://developer.wordpress.org/plugins/rest-api/routes-and-endpoints/)
+- [Routes & Endpoints](https://developer.wordpress.org/rest-api/extending-the-rest-api/routes-and-endpoints/)
 - [Requests](https://developer.wordpress.org/plugins/rest-api/requests/)
 - [Responses](https://developer.wordpress.org/plugins/rest-api/responses/)
 - [Schema](https://developer.wordpress.org/plugins/rest-api/schema/)
