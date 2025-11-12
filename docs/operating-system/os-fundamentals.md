@@ -637,5 +637,5 @@ Test your knowledge:
 
 ---
 
-**Next Step**: [Web Fundamentals](../Web%20Fundamentals/web-basics.md)
+**Next Step**: [Web Fundamentals](../web-fundamentals/web-basics.md)
 

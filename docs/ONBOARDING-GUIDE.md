@@ -62,7 +62,7 @@ Welcome to the developer onboarding program! This comprehensive guide will help 
 - Learn version control basics
 
 #### Tasks:
-- [ ] Install required software (see [dev-environment.md](Programming%20Languages/dev-environment.md))
+- [ ] Install required software (see [dev-environment.md](programming-languages/dev-environment.md))
   - Laravel Herd (for PHP development)
   - MySQL/MariaDB
   - Node.js and NVM
@@ -113,7 +113,7 @@ git push origin feature/your-feature-name
 - [ ] Complete HTML & CSS Quiz
 
 #### Learning Resources:
-See [html-css.md](Programming%20Languages/html-css.md) for detailed resources including:
+See [html-css.md](programming-languages/html-css.md) for detailed resources including:
 
 - MDN Web Docs tutorials
 - Flexbox and Grid guides
@@ -148,7 +148,7 @@ Create a responsive three-column layout that stacks vertically on mobile devices
 - [ ] Complete JavaScript Quiz
 
 #### Learning Resources:
-See [javascript.md](Programming%20Languages/javascript.md) for:
+See [javascript.md](programming-languages/javascript.md) for:
 
 - ES6 tutorials
 - Clean code concepts
@@ -183,7 +183,7 @@ See [javascript.md](Programming%20Languages/javascript.md) for:
 - [ ] Complete PHP Quiz
 
 #### Learning Resources:
-See [php-mysql.md](Programming%20Languages/php-mysql.md) for:
+See [php-mysql.md](programming-languages/php-mysql.md) for:
 
 - PHP 8 tutorials
 - Clean code concepts for PHP
