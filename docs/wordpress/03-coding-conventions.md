@@ -350,7 +350,7 @@ $results = $wpdb->get_results(
 );
 ```
 
-### Capability Checks
+### [Capability Checks](https://wordpress.org/documentation/article/roles-and-capabilities/)
 
 ```php
 // Check user capabilities
