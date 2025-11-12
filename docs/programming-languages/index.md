@@ -123,8 +123,6 @@ Master WordPress from basics to advanced development.
 4. [Basic Theme Development](../wordpress/05-basic-theme-development.md)
 5. [REST API](../wordpress/06-rest-api.md)
 6. [WP-CLI](../wordpress/07-wp-cli.md)
-7. [Advanced Plugin Development](../wordpress/08-advanced-plugin-development.md)
-8. [Advanced Theme Development](../wordpress/09-advanced-theme-development.md)
 
 **Note:** Complete the [Development Environment Setup](dev-environment.md) before starting WordPress.
 
@@ -259,8 +257,8 @@ Use this checklist:
 
 Once you complete all programming language guides:
 
-1. **Operating System Basics** - [../operating-system/](../Operating%20System%20Basics/)
-2. **Web Fundamentals** - [../web-fundamentals/](../Web%20Fundamentals/)
+1. **Operating System Basics** - [../operating-system/os-fundamentals.md](../operating-system/os-fundamentals.md)
+2. **Web Fundamentals** - [../web-fundamentals/web-basics.md](../web-fundamentals/web-basics.md)
 3. **Debugging Setup** - [../debuging.md](../debuging.md)
 4. **Build Real Projects** - Apply your knowledge
 

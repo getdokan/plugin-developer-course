@@ -863,7 +863,7 @@ Create a script to:
 
 ## Next Steps
 
-Continue with [Advanced Plugin Development](08-advanced-plugin-development.md) to learn complex plugin patterns and techniques.
+Continue exploring WordPress development with the other guides in this section.
 
 ---
 

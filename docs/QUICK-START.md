@@ -69,9 +69,9 @@ Curated learning resources and external tutorials in one place.
 
 ### 4. Supporting Materials
 - [debuging.md](debuging.md) - Debugging setup
-- [programming-languages/](Programming%20Languages/) - Code tutorials
-- [operating-system/](Operating%20System%20Basics/) - CLI and system commands
-- [web-fundamentals/](Web%20Fundamentals/) - How the web works
+- [programming-languages/](programming-languages/index.md) - Code tutorials
+- [operating-system/](operating-system/os-fundamentals.md) - CLI and system commands
+- [web-fundamentals/](web-fundamentals/web-basics.md) - How the web works
 
 ---
 
@@ -170,7 +170,7 @@ Curated learning resources and external tutorials in one place.
 5. **VSCode or PhpStorm** - Code editor
 
 ### Instructions
-See [programming-languages/dev-environment.md](Programming%20Languages/dev-environment.md)
+See [programming-languages/dev-environment.md](programming-languages/dev-environment.md)
 
 ---
 
